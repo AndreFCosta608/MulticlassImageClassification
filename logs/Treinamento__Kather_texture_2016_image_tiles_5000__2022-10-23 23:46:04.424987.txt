@@ -1,0 +1,6 @@
+
+
+->Modelo rede analisado: 7
+->Dataset utilizado: /home/pi/projetos/ComparadorTexturas/datasets/Kather_texture_2016_image_tiles_5000
+->Classes no dataset: ['06_MUCOSA', '02_STROMA', '05_DEBRIS', '04_LYMPHO', '08_EMPTY', '07_ADIPOSE', '01_TUMOR', '03_COMPLEX']
+->Numero de classes: 8

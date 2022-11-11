@@ -1,0 +1,5 @@
+
+
+Modelo rede analisado: 7
+Dataset utilizado: /home/pi/Deposito/Projetos/Pessoais/Artigos/ComparativoTexturas/datasets/Grapevine_Leaves_Image_Dataset
+Nome do arquivo com a rede: pesos/Grapevine_Leaves_Image_Dataset/uNet.h5

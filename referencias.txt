@@ -1,0 +1,54 @@
+
+
+	Datasets:
+		Dataset Histologia 			
+			https://www.kaggle.com/datasets/kmader/colorectal-histology-mnist
+		
+		
+		Dataset de folhas de olveira		
+			Grapevine Leaves Image Dataset
+			https://www.muratkoklu.com/datasets/
+			Citação requerida:		
+			KOKLU, M., UNLERSEN, M. F., OZKAN, IA., ASLAN, M. F. and SABANCI, K. (2022). A CNN-SVM study based on selected deep features for grapevine leaves classification. Measurement, 188, 110425. DOI: https://doi.org/10.1016/j.measurement.2021.110425
+		
+	
+	
+	Topologias usadas:
+		https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c
+		https://datahacker.rs/vgg16-vgg19-network-implemented-tensorflow-2-0/
+		https://ai.plainenglish.io/googlenet-inceptionv1-with-tensorflow-9e7f3a161e87
+		https://pylessons.com/Keras-ResNet-tutorial
+		https://www.kaggle.com/code/keegil/keras-u-net-starter-lb-0-277/notebook
+		https://github.com/zhulf0804/UNet-Tensorflow
+		https://github.com/VidushiBhatia/U-Net-Implementation/blob/main/U_Net_for_Image_Segmentation_From_Scratch_Using_TensorFlow_v4.ipynb
+		https://towardsdatascience.com/xception-from-scratch-using-tensorflow-even-better-than-inception-940fb231ced9
+		https://github.com/indiantechwarrior/Resnet_Model_TF2.0
+		https://pypi.org/project/keras-unet-collection/
+		https://colab.research.google.com/github/margaretmz/image-segmentation/blob/main/unet_pet_segmentation.ipynb
+		https://colab.research.google.com/drive/1g1JFiBitLv6bY9jITv-mHYp9HcpTxdl4
+		https://pyimagesearch.com/2022/02/21/u-net-image-segmentation-in-keras/
+		https://colab.research.google.com/github/margaretmz/image-segmentation/blob/main/unet_pet_segmentation.ipynb#scrollTo=uckkCSj5TpxD
+		https://www.tensorflow.org/lite/examples/image_classification/overview
+		https://ai.plainenglish.io/googlenet-inceptionv1-with-tensorflow-9e7f3a161e87?gi=54b27b3f56a4
+				
+
+	Pesquisa sobre topologias pré-implementadas no Keras.
+		https://www.tensorflow.org/api_docs/python/tf/keras/applications
+	
+	
+	Projetos Similares
+		https://pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/	
+		https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
+
+	Links que não chegaram a ser usados:
+		Classificação de texturas Gans		
+			https://github.com/finch-yihe/Image-Texture-Classification-of-Pituitary-Tumors-via-CycleGAN
+			https://openaccess.thecvf.com/content_cvpr_2018/papers/Xian_TextureGAN_Controlling_Deep_CVPR_2018_paper.pdf
+			https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+			https://www.tensorflow.org/tutorials/generative/dcgan
+			https://mdpi-res.com/d_attachment/sensors/sensors-21-08077/article_deploy/sensors-21-08077-v3.pdf?version=1638870013
+			
+			
+
+			

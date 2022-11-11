@@ -1,0 +1,3201 @@
+
+
+Modelo rede analisado: 8
+Dataset utilizado: /home/pi/Deposito/Projetos/Pessoais/Artigos/ComparativoTexturas/datasets/Kather_texture_2016_image_tiles_5000
+Nome do arquivo com a rede: pesos/Kather_texture_2016_image_tiles_5000/ResNet101.h5
+Classe em testes: 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR2816_CRC-Prim-HE-10_001.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:03.171880
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1595A_CRC-Prim-HE-08_007.jpg_Row_1351_Col_301.jpg
+Tempo de analise: 0:00:00.219707
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR155AE_CRC-Prim-HE-05_008.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.222567
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR441F_CRC-Prim-HE-08_001.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.211887
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR129E_CRC-Prim-HE-09_010.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.237147
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR14D2_CRC-Prim-HE-09_026.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.229133
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1085B_CRC-Prim-HE-02_034.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.221733
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR150A5_CRC-Prim-HE-09_010.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.222764
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR17534_CRC-Prim-HE-01_008.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.216653
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR13C8D_CRC-Prim-HE-08_010.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.222617
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1852C_CRC-Prim-HE-03_028.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.227879
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR6F0D_CRC-Prim-HE-01_015.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.226292
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMORA570_CRC-Prim-HE-04_016.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.223785
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR7372_CRC-Prim-HE-06_016.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.218393
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR15FE1_CRC-Prim-HE-02_004b.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.219405
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR7982_CRC-Prim-HE-05_013.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.226276
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR9E66_CRC-Prim-HE-06_008.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.226984
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR8EAF_CRC-Prim-HE-04_029.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.214628
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR762E_CRC-Prim-HE-04_034.jpg_Row_1_Col_1051.jpg
+Tempo de analise: 0:00:00.222826
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR160FD_CRC-Prim-HE-10_021.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.220048
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR5FA2_CRC-Prim-HE-02_024.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.218249
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR8367_CRC-Prim-HE-03_028.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.219997
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR14702_CRC-Prim-HE-08_016.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.215061
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR89F4_CRC-Prim-HE-09_022.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.220877
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR836_CRC-Prim-HE-08_007.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.377730
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1851D_CRC-Prim-HE-05_016.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.257453
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMORA0_CRC-Prim-HE-01_011.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.217051
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMORA2B9_CRC-Prim-HE-10_021.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.211433
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1733E_CRC-Prim-HE-07.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.219750
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1460F_CRC-Prim-HE-07_025.jpg_Row_1351_Col_451.jpg
+Tempo de analise: 0:00:00.215094
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR3F71_CRC-Prim-HE-07_025.jpg_Row_1501_Col_601.jpg
+Tempo de analise: 0:00:00.210260
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR10D60_CRC-Prim-HE-02_004.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.214211
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1AB_CRC-Prim-HE-01_015.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.210170
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR20BE_CRC-Prim-HE-05_008.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.222090
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1055E_CRC-Prim-HE-01_027.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.220022
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR157EE_CRC-Prim-HE-03_009.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.221194
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR576D_CRC-Prim-HE-02_024.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.225822
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR7657_CRC-Prim-HE-08_007.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.222681
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR4506_CRC-Prim-HE-01_011.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.217556
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR16D66_CRC-Prim-HE-02_028.jpg_Row_601_Col_451.jpg
+Tempo de analise: 0:00:00.224142
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR3CD6_CRC-Prim-HE-01_027.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.208780
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR100B0_CRC-Prim-HE-09_009.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.222730
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR13D25_CRC-Prim-HE-09_012.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.223947
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR9D38_CRC-Prim-HE-09_009.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.216739
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR36C6_CRC-Prim-HE-05_024.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.233743
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR11147_CRC-Prim-HE-09_011.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.221278
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR2642_CRC-Prim-HE-07_025.jpg_Row_1351_Col_601.jpg
+Tempo de analise: 0:00:00.228886
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR142CD_CRC-Prim-HE-02_003b.jpg_Row_151_Col_751.jpg
+Tempo de analise: 0:00:00.209043
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR11D67_CRC-Prim-HE-07.jpg_Row_601_Col_601.jpg
+Tempo de analise: 0:00:00.223983
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR11B32_CRC-Prim-HE-07.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.210682
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR21BB_CRC-Prim-HE-08_003.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.215036
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR12476_CRC-Prim-HE-02_028.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.222421
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR46D4_CRC-Prim-HE-07_023.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.227912
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR17F3A_CRC-Prim-HE-10_021.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.217366
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR175A_CRC-Prim-HE-09_014.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.230411
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR15143_CRC-Prim-HE-02_003b.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.215782
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR480_CRC-Prim-HE-05_024.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.216551
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR74BB_CRC-Prim-HE-07_023.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.228417
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR10982_CRC-Prim-HE-02_009b.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.236569
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR27_CRC-Prim-HE-01_041.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.212913
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR8367_CRC-Prim-HE-03_028.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.222559
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR10A79_CRC-Prim-HE-04_032.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.232673
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR6CEC_CRC-Prim-HE-04_032.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.217424
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR5DBB_CRC-Prim-HE-07_025.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.230432
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR5078_CRC-Prim-HE-03_009.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.245357
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1435E_CRC-Prim-HE-07_025.jpg_Row_1651_Col_301.jpg
+Tempo de analise: 0:00:00.218019
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR126E8_CRC-Prim-HE-07.jpg_Row_601_Col_751.jpg
+Tempo de analise: 0:00:00.230243
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR604_CRC-Prim-HE-09_024.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.219972
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR85C0_CRC-Prim-HE-09_010.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.219876
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR18355_CRC-Prim-HE-07_022.jpg_Row_901_Col_1.jpg
+Tempo de analise: 0:00:00.204826
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR13FCA_CRC-Prim-HE-08_007.jpg_Row_901_Col_301.jpg
+Tempo de analise: 0:00:00.209897
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR5DBE_CRC-Prim-HE-01_044.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.225903
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR762E_CRC-Prim-HE-04_034.jpg_Row_1_Col_1051.jpg
+Tempo de analise: 0:00:00.216556
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR157EE_CRC-Prim-HE-03_009.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.229189
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR150AD_CRC-Prim-HE-02_028.jpg_Row_301_Col_451.jpg
+Tempo de analise: 0:00:00.247470
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR73C0_CRC-Prim-HE-10_002c.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.229450
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR31BD_CRC-Prim-HE-05_024.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.209106
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR15A0A_CRC-Prim-HE-07_025.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.210893
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1669F_CRC-Prim-HE-04_033.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.204817
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR389F_CRC-Prim-HE-07.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.213565
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR261A_CRC-Prim-HE-01_011.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.220179
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR41A0_CRC-Prim-HE-05_006.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.220673
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR17427_CRC-Prim-HE-09_026.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.222240
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR147D8_CRC-Prim-HE-05_024.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.240499
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR1851D_CRC-Prim-HE-05_016.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.221448
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR15D84_CRC-Prim-HE-07_022.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.212113
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR56B4_CRC-Prim-HE-07_025.jpg_Row_901_Col_1.jpg
+Tempo de analise: 0:00:00.215276
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR6356_CRC-Prim-HE-09_022.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.214994
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR9C14_CRC-Prim-HE-07_025.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.225757
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR13644_CRC-Prim-HE-04_033.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.215144
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR29EA_CRC-Prim-HE-02_028.jpg_Row_751_Col_1.jpg
+Tempo de analise: 0:00:00.222913
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR296C_CRC-Prim-HE-07_025.jpg_Row_1801_Col_451.jpg
+Tempo de analise: 0:00:00.225762
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR91D8_CRC-Prim-HE-07_025.jpg_Row_901_Col_601.jpg
+Tempo de analise: 0:00:00.222660
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR7982_CRC-Prim-HE-05_013.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.220706
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR6F02_CRC-Prim-HE-06_018.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.221820
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR5D31_CRC-Prim-HE-05_024.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.215485
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR17C48_CRC-Prim-HE-04_029.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.211412
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR16142_CRC-Prim-HE-07_025.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.225410
+Resultado previsto: 6 =) 01_TUMOR
+
+Cobaia selecionada: 01_TUMOR36F9_CRC-Prim-HE-07.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.226228
+Resultado previsto: 6 =) 01_TUMOR
+Total de acertos: 99
+Percentual de acertos: 99.0
+Classe em testes: 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13D18_CRC-Prim-HE-06_005.jpg_Row_1_Col_1051.jpg
+Tempo de analise: 0:00:00.223743
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1433D_CRC-Prim-HE-06_005.jpg_Row_5551_Col_5851.jpg
+Tempo de analise: 0:00:00.214206
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 08_EMPTY10997_CRC-Prim-HE-06_005.jpg_Row_5251_Col_4501.jpg
+Tempo de analise: 0:00:00.217660
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY133B2_CRC-Prim-HE-06_005.jpg_Row_1051_Col_4201.jpg
+Tempo de analise: 0:00:00.220521
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11F64_CRC-Prim-HE-06_005.jpg_Row_5701_Col_751.jpg
+Tempo de analise: 0:00:00.239054
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10E2_CRC-Prim-HE-06_005.jpg_Row_3001_Col_751.jpg
+Tempo de analise: 0:00:00.222936
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13F1C_CRC-Prim-HE-10_026.jpg_Row_4951_Col_1.jpg
+Tempo de analise: 0:00:00.225738
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13AF0_CRC-Prim-HE-06_005.jpg_Row_1651_Col_1201.jpg
+Tempo de analise: 0:00:00.223542
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13978_CRC-Prim-HE-06_005.jpg_Row_1651_Col_4801.jpg
+Tempo de analise: 0:00:00.209153
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1051D_CRC-Prim-HE-06_005.jpg_Row_2551_Col_5701.jpg
+Tempo de analise: 0:00:00.220419
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11853_CRC-Prim-HE-06_005.jpg_Row_5701_Col_7801.jpg
+Tempo de analise: 0:00:00.221644
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1470E_CRC-Prim-HE-06_005.jpg_Row_4351_Col_2851.jpg
+Tempo de analise: 0:00:00.213843
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11515_CRC-Prim-HE-06_005.jpg_Row_3451_Col_1201.jpg
+Tempo de analise: 0:00:00.221759
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1235A_CRC-Prim-HE-06_005.jpg_Row_1_Col_6901.jpg
+Tempo de analise: 0:00:00.220316
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14636_CRC-Prim-HE-10_026.jpg_Row_2401_Col_301.jpg
+Tempo de analise: 0:00:00.214800
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14800_CRC-Prim-HE-06_005.jpg_Row_2251_Col_1201.jpg
+Tempo de analise: 0:00:00.218084
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14358_CRC-Prim-HE-06_005.jpg_Row_4201_Col_601.jpg
+Tempo de analise: 0:00:00.211355
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY110DC_CRC-Prim-HE-06_005.jpg_Row_2551_Col_2251.jpg
+Tempo de analise: 0:00:00.214904
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1405_CRC-Prim-HE-06_005.jpg_Row_3601_Col_1951.jpg
+Tempo de analise: 0:00:00.211916
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1478F_CRC-Prim-HE-06_005.jpg_Row_5101_Col_6901.jpg
+Tempo de analise: 0:00:00.206137
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY12DDD_CRC-Prim-HE-06_005.jpg_Row_1051_Col_1351.jpg
+Tempo de analise: 0:00:00.216918
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10AA8_CRC-Prim-HE-06_005.jpg_Row_6001_Col_7201.jpg
+Tempo de analise: 0:00:00.215754
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14DD3_CRC-Prim-HE-06_005.jpg_Row_2101_Col_7501.jpg
+Tempo de analise: 0:00:00.220364
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY139BC_CRC-Prim-HE-06_005.jpg_Row_3751_Col_1951.jpg
+Tempo de analise: 0:00:00.227848
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY150C7_CRC-Prim-HE-06_005.jpg_Row_5701_Col_6001.jpg
+Tempo de analise: 0:00:00.225019
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1537F_CRC-Prim-HE-06_005.jpg_Row_151_Col_3301.jpg
+Tempo de analise: 0:00:00.224387
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10B5C_CRC-Prim-HE-06_005.jpg_Row_3301_Col_1651.jpg
+Tempo de analise: 0:00:00.226127
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11928_CRC-Prim-HE-06_005.jpg_Row_4201_Col_4051.jpg
+Tempo de analise: 0:00:00.205976
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10D0_CRC-Prim-HE-06_005.jpg_Row_6451_Col_3601.jpg
+Tempo de analise: 0:00:00.221345
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1374C_CRC-Prim-HE-06_005.jpg_Row_3601_Col_4051.jpg
+Tempo de analise: 0:00:00.223790
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14617_CRC-Prim-HE-06_005.jpg_Row_3451_Col_4801.jpg
+Tempo de analise: 0:00:00.219009
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1056A_CRC-Prim-HE-06_005.jpg_Row_4801_Col_6151.jpg
+Tempo de analise: 0:00:00.204315
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY104B6_CRC-Prim-HE-06_005.jpg_Row_3451_Col_6451.jpg
+Tempo de analise: 0:00:00.219276
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY133B2_CRC-Prim-HE-06_005.jpg_Row_1051_Col_4201.jpg
+Tempo de analise: 0:00:00.229851
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY150F7_CRC-Prim-HE-06_005.jpg_Row_3001_Col_7051.jpg
+Tempo de analise: 0:00:00.216360
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY126CF_CRC-Prim-HE-06_005.jpg_Row_4051_Col_1801.jpg
+Tempo de analise: 0:00:00.223646
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1228B_CRC-Prim-HE-06_005.jpg_Row_4951_Col_6601.jpg
+Tempo de analise: 0:00:00.221438
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY15672_CRC-Prim-HE-06_005.jpg_Row_5251_Col_1.jpg
+Tempo de analise: 0:00:00.224591
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13A6E_CRC-Prim-HE-06_005.jpg_Row_6301_Col_7801.jpg
+Tempo de analise: 0:00:00.204649
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14459_CRC-Prim-HE-06_005.jpg_Row_6301_Col_4351.jpg
+Tempo de analise: 0:00:00.219372
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 08_EMPTY125C5_CRC-Prim-HE-06_005.jpg_Row_2251_Col_7051.jpg
+Tempo de analise: 0:00:00.219634
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14B1D_CRC-Prim-HE-06_005.jpg_Row_3151_Col_5101.jpg
+Tempo de analise: 0:00:00.235157
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11EB6_CRC-Prim-HE-06_005.jpg_Row_6451_Col_8101.jpg
+Tempo de analise: 0:00:00.217548
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13E8_CRC-Prim-HE-06_005.jpg_Row_451_Col_4351.jpg
+Tempo de analise: 0:00:00.242907
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 08_EMPTY142E1_CRC-Prim-HE-10_026.jpg_Row_3751_Col_601.jpg
+Tempo de analise: 0:00:00.210640
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11853_CRC-Prim-HE-06_005.jpg_Row_5701_Col_7801.jpg
+Tempo de analise: 0:00:00.215107
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13B4F_CRC-Prim-HE-06_005.jpg_Row_5101_Col_3001.jpg
+Tempo de analise: 0:00:00.216602
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14459_CRC-Prim-HE-06_005.jpg_Row_6301_Col_4351.jpg
+Tempo de analise: 0:00:00.221032
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 08_EMPTY13DC5_CRC-Prim-HE-06_005.jpg_Row_4651_Col_2101.jpg
+Tempo de analise: 0:00:00.211937
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13A6E_CRC-Prim-HE-06_005.jpg_Row_6301_Col_7801.jpg
+Tempo de analise: 0:00:00.224795
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY12704_CRC-Prim-HE-06_005.jpg_Row_601_Col_4051.jpg
+Tempo de analise: 0:00:00.204951
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY108D1_CRC-Prim-HE-06_005.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.220758
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1499F_CRC-Prim-HE-06_005.jpg_Row_1201_Col_1501.jpg
+Tempo de analise: 0:00:00.212973
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10D6B_CRC-Prim-HE-06_005.jpg_Row_6151_Col_1501.jpg
+Tempo de analise: 0:00:00.214206
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14AD7_CRC-Prim-HE-06_005.jpg_Row_3001_Col_3451.jpg
+Tempo de analise: 0:00:00.213945
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14EB0_CRC-Prim-HE-06_005.jpg_Row_301_Col_2851.jpg
+Tempo de analise: 0:00:00.215821
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13A11_CRC-Prim-HE-06_005.jpg_Row_2101_Col_3151.jpg
+Tempo de analise: 0:00:00.228400
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY142C8_CRC-Prim-HE-06_005.jpg_Row_151_Col_4351.jpg
+Tempo de analise: 0:00:00.213886
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY12B77_CRC-Prim-HE-10_026.jpg_Row_1951_Col_1.jpg
+Tempo de analise: 0:00:00.212391
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY129A_CRC-Prim-HE-06_005.jpg_Row_1501_Col_151.jpg
+Tempo de analise: 0:00:00.221937
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10EFE_CRC-Prim-HE-06_005.jpg_Row_2551_Col_1651.jpg
+Tempo de analise: 0:00:00.221110
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY157C1_CRC-Prim-HE-06_005.jpg_Row_2551_Col_4651.jpg
+Tempo de analise: 0:00:00.222371
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 08_EMPTY12F7B_CRC-Prim-HE-06_005.jpg_Row_3001_Col_3901.jpg
+Tempo de analise: 0:00:00.223355
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10AE3_CRC-Prim-HE-06_005.jpg_Row_1051_Col_301.jpg
+Tempo de analise: 0:00:00.219502
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11659_CRC-Prim-HE-06_005.jpg_Row_4501_Col_5251.jpg
+Tempo de analise: 0:00:00.223729
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10251_CRC-Prim-HE-06_005.jpg_Row_4201_Col_3451.jpg
+Tempo de analise: 0:00:00.213058
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13904_CRC-Prim-HE-06_005.jpg_Row_4801_Col_1501.jpg
+Tempo de analise: 0:00:00.221148
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY114E4_CRC-Prim-HE-06_005.jpg_Row_2701_Col_1051.jpg
+Tempo de analise: 0:00:00.209916
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13423_CRC-Prim-HE-06_005.jpg_Row_3901_Col_1.jpg
+Tempo de analise: 0:00:00.222991
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY139C1_CRC-Prim-HE-06_005.jpg_Row_1951_Col_451.jpg
+Tempo de analise: 0:00:00.211767
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY106A2_CRC-Prim-HE-06_005.jpg_Row_1201_Col_4201.jpg
+Tempo de analise: 0:00:00.219394
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY109D2_CRC-Prim-HE-06_005.jpg_Row_5851_Col_2551.jpg
+Tempo de analise: 0:00:00.212178
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1519C_CRC-Prim-HE-06_005.jpg_Row_3751_Col_3301.jpg
+Tempo de analise: 0:00:00.228135
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1504_CRC-Prim-HE-06_005.jpg_Row_5401_Col_451.jpg
+Tempo de analise: 0:00:00.233348
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY12FDC_CRC-Prim-HE-06_005.jpg_Row_1501_Col_5701.jpg
+Tempo de analise: 0:00:00.241176
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1509C_CRC-Prim-HE-06_005.jpg_Row_2401_Col_2851.jpg
+Tempo de analise: 0:00:00.217157
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13D47_CRC-Prim-HE-06_005.jpg_Row_2401_Col_5101.jpg
+Tempo de analise: 0:00:00.214279
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1459_CRC-Prim-HE-06_005.jpg_Row_6451_Col_6901.jpg
+Tempo de analise: 0:00:00.219438
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY117A7_CRC-Prim-HE-06_005.jpg_Row_2851_Col_6601.jpg
+Tempo de analise: 0:00:00.208585
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14BE5_CRC-Prim-HE-06_005.jpg_Row_1951_Col_2251.jpg
+Tempo de analise: 0:00:00.221144
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1498C_CRC-Prim-HE-06_005.jpg_Row_1801_Col_6601.jpg
+Tempo de analise: 0:00:00.208285
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY14E02_CRC-Prim-HE-06_005.jpg_Row_601_Col_3901.jpg
+Tempo de analise: 0:00:00.221682
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY148FA_CRC-Prim-HE-06_005.jpg_Row_151_Col_1801.jpg
+Tempo de analise: 0:00:00.223364
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1436C_CRC-Prim-HE-06_005.jpg_Row_2551_Col_2101.jpg
+Tempo de analise: 0:00:00.211360
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY13C58_CRC-Prim-HE-06_005.jpg_Row_2401_Col_5401.jpg
+Tempo de analise: 0:00:00.210001
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10490_CRC-Prim-HE-06_005.jpg_Row_601_Col_901.jpg
+Tempo de analise: 0:00:00.213500
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10AD3_CRC-Prim-HE-06_005.jpg_Row_1801_Col_7051.jpg
+Tempo de analise: 0:00:00.210039
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1051D_CRC-Prim-HE-06_005.jpg_Row_2551_Col_5701.jpg
+Tempo de analise: 0:00:00.211775
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10C6_CRC-Prim-HE-10_026.jpg_Row_3301_Col_601.jpg
+Tempo de analise: 0:00:00.211153
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY134D0_CRC-Prim-HE-10_026.jpg_Row_4801_Col_451.jpg
+Tempo de analise: 0:00:00.210886
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1403_CRC-Prim-HE-06_005.jpg_Row_2551_Col_2401.jpg
+Tempo de analise: 0:00:00.210642
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1310F_CRC-Prim-HE-06_005.jpg_Row_3601_Col_6901.jpg
+Tempo de analise: 0:00:00.217589
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11F1F_CRC-Prim-HE-06_005.jpg_Row_6451_Col_1051.jpg
+Tempo de analise: 0:00:00.214495
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY10FB0_CRC-Prim-HE-06_005.jpg_Row_4651_Col_7501.jpg
+Tempo de analise: 0:00:00.211874
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY11928_CRC-Prim-HE-06_005.jpg_Row_4201_Col_4051.jpg
+Tempo de analise: 0:00:00.218231
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY150B1_CRC-Prim-HE-06_005.jpg_Row_1501_Col_6901.jpg
+Tempo de analise: 0:00:00.212552
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY135EC_CRC-Prim-HE-06_005.jpg_Row_601_Col_6301.jpg
+Tempo de analise: 0:00:00.229857
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY12272_CRC-Prim-HE-06_005.jpg_Row_2701_Col_7051.jpg
+Tempo de analise: 0:00:00.211331
+Resultado previsto: 4 =) 08_EMPTY
+
+Cobaia selecionada: 08_EMPTY1375F_CRC-Prim-HE-06_005.jpg_Row_6001_Col_6301.jpg
+Tempo de analise: 0:00:00.224457
+Resultado previsto: 4 =) 08_EMPTY
+Total de acertos: 94
+Percentual de acertos: 94.0
+Classe em testes: 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS134F4_CRC-Prim-HE-07_002.jpg_Row_1051_Col_601.jpg
+Tempo de analise: 0:00:00.232666
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS3E4_CRC-Prim-HE-07_002.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.219830
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS7A6_CRC-Prim-HE-03_029.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.230678
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1171C_CRC-Prim-HE-03_014.jpg_Row_1_Col_751.jpg
+Tempo de analise: 0:00:00.217480
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1EA5_CRC-Prim-HE-03_010.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.217051
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS6B9C_CRC-Prim-HE-03_031.jpg_Row_151_Col_601.jpg
+Tempo de analise: 0:00:00.221755
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS650E_CRC-Prim-HE-10_016.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.229790
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS16AB9_CRC-Prim-HE-04_002.jpg_Row_901_Col_601.jpg
+Tempo de analise: 0:00:00.219716
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS13EF3_CRC-Prim-HE-04_002.jpg_Row_901_Col_1501.jpg
+Tempo de analise: 0:00:00.221179
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1763A_CRC-Prim-HE-07_002.jpg_Row_1201_Col_1351.jpg
+Tempo de analise: 0:00:00.216457
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1A8E_CRC-Prim-HE-04_002.jpg_Row_451_Col_751.jpg
+Tempo de analise: 0:00:00.228772
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1EA5_CRC-Prim-HE-03_010.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.212633
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17BC7_CRC-Prim-HE-04_001.jpg_Row_601_Col_601.jpg
+Tempo de analise: 0:00:00.226640
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS479C_CRC-Prim-HE-03_024.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.242464
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS12B6_CRC-Prim-HE-08_021.jpg_Row_1201_Col_151.jpg
+Tempo de analise: 0:00:00.225696
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS11452_CRC-Prim-HE-08_021.jpg_Row_1501_Col_1051.jpg
+Tempo de analise: 0:00:00.217382
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS5717_CRC-Prim-HE-10_018.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.221800
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS10CA8_CRC-Prim-HE-08_023.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.220315
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS3611_CRC-Prim-HE-04_002.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.216550
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1654B_CRC-Prim-HE-05_031.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.210129
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS11137_CRC-Prim-HE-08_021.jpg_Row_1651_Col_301.jpg
+Tempo de analise: 0:00:00.240662
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1C1F_CRC-Prim-HE-03_031.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.237966
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS15695_CRC-Prim-HE-04_030.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.228782
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS4CF9_CRC-Prim-HE-04_001.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.214720
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS4721_CRC-Prim-HE-03_010.jpg_Row_151_Col_1501.jpg
+Tempo de analise: 0:00:00.221648
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1014B_CRC-Prim-HE-04_001.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.213660
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17F50_CRC-Prim-HE-03_014.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.215218
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS147ED_CRC-Prim-HE-03_031.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.222430
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS7FF8_CRC-Prim-HE-07_002.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.216677
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1062E_CRC-Prim-HE-08_023.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.220352
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17214_CRC-Prim-HE-07_002.jpg_Row_901_Col_301.jpg
+Tempo de analise: 0:00:00.225870
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1854E_CRC-Prim-HE-10_016.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.220739
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS39F4_CRC-Prim-HE-08_021.jpg_Row_1351_Col_1351.jpg
+Tempo de analise: 0:00:00.221490
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS3A8E_CRC-Prim-HE-04_002.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.219061
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS567D_CRC-Prim-HE-08_021.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.209283
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS12EE8_CRC-Prim-HE-03_014.jpg_Row_1_Col_901.jpg
+Tempo de analise: 0:00:00.206475
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1062E_CRC-Prim-HE-08_023.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.221024
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS6AE5_CRC-Prim-HE-08_021.jpg_Row_601_Col_751.jpg
+Tempo de analise: 0:00:00.210146
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS81DC_CRC-Prim-HE-08_021.jpg_Row_1351_Col_901.jpg
+Tempo de analise: 0:00:00.226926
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17BC7_CRC-Prim-HE-04_001.jpg_Row_601_Col_601.jpg
+Tempo de analise: 0:00:00.205026
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1EA5_CRC-Prim-HE-03_010.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.219118
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS183D_CRC-Prim-HE-08_023.jpg_Row_151_Col_1051.jpg
+Tempo de analise: 0:00:00.222754
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS145AC_CRC-Prim-HE-08_023.jpg_Row_151_Col_601.jpg
+Tempo de analise: 0:00:00.214234
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1014B_CRC-Prim-HE-04_001.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.216902
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS16BE_CRC-Prim-HE-08_023.jpg_Row_901_Col_451.jpg
+Tempo de analise: 0:00:00.221743
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1791_CRC-Prim-HE-10_016.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.228144
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS6D7F_CRC-Prim-HE-03_024.jpg_Row_751_Col_1.jpg
+Tempo de analise: 0:00:00.224468
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS40E_CRC-Prim-HE-03_014.jpg_Row_451_Col_601.jpg
+Tempo de analise: 0:00:00.220035
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS5FB2_CRC-Prim-HE-07_002.jpg_Row_901_Col_151.jpg
+Tempo de analise: 0:00:00.217370
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 05_DEBRIS7CFE_CRC-Prim-HE-03_031.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.214794
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS11393_CRC-Prim-HE-08_024.jpg_Row_301_Col_451.jpg
+Tempo de analise: 0:00:00.211924
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS4DE5_CRC-Prim-HE-05_031.jpg_Row_1_Col_901.jpg
+Tempo de analise: 0:00:00.218681
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS6E18_CRC-Prim-HE-05_031.jpg_Row_301_Col_1501.jpg
+Tempo de analise: 0:00:00.211330
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS70C2_CRC-Prim-HE-04_002.jpg_Row_451_Col_1801.jpg
+Tempo de analise: 0:00:00.231519
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17FF0_CRC-Prim-HE-05_031.jpg_Row_451_Col_1351.jpg
+Tempo de analise: 0:00:00.213700
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS183D_CRC-Prim-HE-08_023.jpg_Row_151_Col_1051.jpg
+Tempo de analise: 0:00:00.209129
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1662E_CRC-Prim-HE-03_024.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.221315
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1EE4_CRC-Prim-HE-09_004.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.210807
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS142DE_CRC-Prim-HE-05_031.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.227753
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS10AB3_CRC-Prim-HE-04_002.jpg_Row_901_Col_451.jpg
+Tempo de analise: 0:00:00.221451
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS6351_CRC-Prim-HE-07_002.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.225716
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS11A32_CRC-Prim-HE-04_001.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.229140
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS4B8A_CRC-Prim-HE-08_021.jpg_Row_301_Col_1651.jpg
+Tempo de analise: 0:00:00.220008
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 05_DEBRIS12BD7_CRC-Prim-HE-03_029.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.214628
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS11A91_CRC-Prim-HE-04_012.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.216551
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS7552_CRC-Prim-HE-08_023.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.380148
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS6CAD_CRC-Prim-HE-03_031.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.237599
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS135ED_CRC-Prim-HE-04_002.jpg_Row_751_Col_601.jpg
+Tempo de analise: 0:00:00.225814
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17251_CRC-Prim-HE-04_004.jpg_Row_1_Col_1051.jpg
+Tempo de analise: 0:00:00.211972
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS163E_CRC-Prim-HE-03_024.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.217918
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS16C90_CRC-Prim-HE-08_021.jpg_Row_1501_Col_1.jpg
+Tempo de analise: 0:00:00.211895
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1031B_CRC-Prim-HE-08_024.jpg_Row_1201_Col_151.jpg
+Tempo de analise: 0:00:00.211932
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS3C6C_CRC-Prim-HE-08_024.jpg_Row_1201_Col_1.jpg
+Tempo de analise: 0:00:00.216254
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS131A0_CRC-Prim-HE-08_021.jpg_Row_901_Col_901.jpg
+Tempo de analise: 0:00:00.208915
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS16B51_CRC-Prim-HE-05_031.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.219752
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS105E5_CRC-Prim-HE-04_003.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.210422
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS15A42_CRC-Prim-HE-08_021.jpg_Row_1501_Col_751.jpg
+Tempo de analise: 0:00:00.223642
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS157D4_CRC-Prim-HE-03_029.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.214625
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS11452_CRC-Prim-HE-08_021.jpg_Row_1501_Col_1051.jpg
+Tempo de analise: 0:00:00.203408
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS5730_CRC-Prim-HE-08_021.jpg_Row_1801_Col_751.jpg
+Tempo de analise: 0:00:00.208042
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS14D61_CRC-Prim-HE-08_021.jpg_Row_1501_Col_1501.jpg
+Tempo de analise: 0:00:00.222599
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1522B_CRC-Prim-HE-06_037.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.212637
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS3F04_CRC-Prim-HE-08_021.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.214190
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS137A6_CRC-Prim-HE-03_014.jpg_Row_451_Col_751.jpg
+Tempo de analise: 0:00:00.213701
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS16ADB_CRC-Prim-HE-07_002.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.222684
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1008B_CRC-Prim-HE-08_021.jpg_Row_1651_Col_1051.jpg
+Tempo de analise: 0:00:00.210356
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS4721_CRC-Prim-HE-03_010.jpg_Row_151_Col_1501.jpg
+Tempo de analise: 0:00:00.222262
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS10C30_CRC-Prim-HE-03_010.jpg_Row_751_Col_1501.jpg
+Tempo de analise: 0:00:00.210884
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS17BC7_CRC-Prim-HE-04_001.jpg_Row_601_Col_601.jpg
+Tempo de analise: 0:00:00.221282
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS12785_CRC-Prim-HE-03_010.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.219464
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS259_CRC-Prim-HE-03_010.jpg_Row_451_Col_1501.jpg
+Tempo de analise: 0:00:00.223319
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS145C3_CRC-Prim-HE-07_002.jpg_Row_601_Col_751.jpg
+Tempo de analise: 0:00:00.228167
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1117B_CRC-Prim-HE-08_024.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.215581
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS1117B_CRC-Prim-HE-08_024.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.216893
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS16CB9_CRC-Prim-HE-06_029.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.223769
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS12AC7_CRC-Prim-HE-03_010.jpg_Row_601_Col_901.jpg
+Tempo de analise: 0:00:00.214218
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS10971_CRC-Prim-HE-04_010.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.216424
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS5F35_CRC-Prim-HE-08_024.jpg_Row_1651_Col_301.jpg
+Tempo de analise: 0:00:00.211049
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 05_DEBRIS18F7_CRC-Prim-HE-04_003.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.219632
+Resultado previsto: 2 =) 05_DEBRIS
+Total de acertos: 97
+Percentual de acertos: 97.0
+Classe em testes: 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE14FBC_CRC-Prim-HE-07.jpg_Row_151_Col_3001.jpg
+Tempo de analise: 0:00:00.218065
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1730C_CRC-Prim-HE-05_032.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.217757
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10FC8_CRC-Prim-HE-05_032.jpg_Row_1051_Col_1.jpg
+Tempo de analise: 0:00:00.220307
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE100AC_CRC-Prim-HE-06_004.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.213216
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE13871_CRC-Prim-HE-05_032.jpg_Row_1801_Col_1651.jpg
+Tempo de analise: 0:00:00.216687
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11E60_CRC-Prim-HE-07.jpg_Row_901_Col_3901.jpg
+Tempo de analise: 0:00:00.208208
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16074_CRC-Prim-HE-03_012.jpg_Row_2401_Col_1801.jpg
+Tempo de analise: 0:00:00.210574
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1611C_CRC-Prim-HE-07.jpg_Row_901_Col_1951.jpg
+Tempo de analise: 0:00:00.224433
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE116B3_CRC-Prim-HE-10_020.jpg_Row_301_Col_1801.jpg
+Tempo de analise: 0:00:00.211069
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE13D38_CRC-Prim-HE-04_036.jpg_Row_301_Col_1201.jpg
+Tempo de analise: 0:00:00.205818
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11E60_CRC-Prim-HE-07.jpg_Row_901_Col_3901.jpg
+Tempo de analise: 0:00:00.214958
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1330F_CRC-Prim-HE-05_032.jpg_Row_301_Col_2701.jpg
+Tempo de analise: 0:00:00.217493
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10498_CRC-Prim-HE-04_036.jpg_Row_301_Col_1351.jpg
+Tempo de analise: 0:00:00.209897
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE140F8_CRC-Prim-HE-03_012.jpg_Row_3301_Col_1201.jpg
+Tempo de analise: 0:00:00.214091
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE148B0_CRC-Prim-HE-05_032.jpg_Row_1651_Col_4201.jpg
+Tempo de analise: 0:00:00.213546
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12F47_CRC-Prim-HE-04_036.jpg_Row_901_Col_451.jpg
+Tempo de analise: 0:00:00.220686
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE13FE5_CRC-Prim-HE-05_032.jpg_Row_1201_Col_1051.jpg
+Tempo de analise: 0:00:00.209741
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE112A6_CRC-Prim-HE-04_036.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.215704
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1485B_CRC-Prim-HE-04_036.jpg_Row_451_Col_1201.jpg
+Tempo de analise: 0:00:00.214395
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16193_CRC-Prim-HE-05_032.jpg_Row_901_Col_2551.jpg
+Tempo de analise: 0:00:00.216172
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1236E_CRC-Prim-HE-05_032.jpg_Row_1651_Col_1951.jpg
+Tempo de analise: 0:00:00.217728
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1225C_CRC-Prim-HE-03_012.jpg_Row_3151_Col_1.jpg
+Tempo de analise: 0:00:00.218237
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15CB4_CRC-Prim-HE-03_012.jpg_Row_751_Col_1651.jpg
+Tempo de analise: 0:00:00.210060
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE128EA_CRC-Prim-HE-07.jpg_Row_1_Col_2251.jpg
+Tempo de analise: 0:00:00.219179
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE147BB_CRC-Prim-HE-05_032.jpg_Row_1_Col_1951.jpg
+Tempo de analise: 0:00:00.208233
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16711_CRC-Prim-HE-07.jpg_Row_1051_Col_3901.jpg
+Tempo de analise: 0:00:00.214782
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15102_CRC-Prim-HE-06_004.jpg_Row_2701_Col_2101.jpg
+Tempo de analise: 0:00:00.211811
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15457_CRC-Prim-HE-07.jpg_Row_151_Col_1051.jpg
+Tempo de analise: 0:00:00.209456
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1019_CRC-Prim-HE-03_012.jpg_Row_3451_Col_301.jpg
+Tempo de analise: 0:00:00.223720
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10F52_CRC-Prim-HE-06_004.jpg_Row_2251_Col_1351.jpg
+Tempo de analise: 0:00:00.219553
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1106F_CRC-Prim-HE-05_032.jpg_Row_1351_Col_301.jpg
+Tempo de analise: 0:00:00.222698
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE163B8_CRC-Prim-HE-03_012.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.214033
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15174_CRC-Prim-HE-06_004.jpg_Row_2551_Col_1801.jpg
+Tempo de analise: 0:00:00.215432
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15687_CRC-Prim-HE-03_012.jpg_Row_3151_Col_1501.jpg
+Tempo de analise: 0:00:00.219357
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12EA2_CRC-Prim-HE-06_004.jpg_Row_2851_Col_2401.jpg
+Tempo de analise: 0:00:00.217626
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1592F_CRC-Prim-HE-03_012.jpg_Row_3151_Col_301.jpg
+Tempo de analise: 0:00:00.217636
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12AA0_CRC-Prim-HE-03_012.jpg_Row_2551_Col_1051.jpg
+Tempo de analise: 0:00:00.219586
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10808_CRC-Prim-HE-05_032.jpg_Row_151_Col_4501.jpg
+Tempo de analise: 0:00:00.218942
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE14C46_CRC-Prim-HE-06_004.jpg_Row_2851_Col_451.jpg
+Tempo de analise: 0:00:00.224784
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15075_CRC-Prim-HE-05_032.jpg_Row_751_Col_4801.jpg
+Tempo de analise: 0:00:00.220860
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12EDD_CRC-Prim-HE-05_032.jpg_Row_1051_Col_601.jpg
+Tempo de analise: 0:00:00.215334
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10D5C_CRC-Prim-HE-03_012.jpg_Row_4051_Col_1501.jpg
+Tempo de analise: 0:00:00.374739
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1749D_CRC-Prim-HE-04_036.jpg_Row_901_Col_1051.jpg
+Tempo de analise: 0:00:00.219771
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16B64_CRC-Prim-HE-03_012.jpg_Row_3751_Col_1801.jpg
+Tempo de analise: 0:00:00.224849
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12BDE_CRC-Prim-HE-07.jpg_Row_1201_Col_3601.jpg
+Tempo de analise: 0:00:00.216348
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11B05_CRC-Prim-HE-06_004.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.220580
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12B8B_CRC-Prim-HE-06_004.jpg_Row_151_Col_2251.jpg
+Tempo de analise: 0:00:00.216419
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1358A_CRC-Prim-HE-03_012.jpg_Row_1951_Col_451.jpg
+Tempo de analise: 0:00:00.217239
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16080_CRC-Prim-HE-03_012.jpg_Row_2851_Col_1501.jpg
+Tempo de analise: 0:00:00.214589
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE14DEA_CRC-Prim-HE-07.jpg_Row_751_Col_2851.jpg
+Tempo de analise: 0:00:00.219247
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE130A9_CRC-Prim-HE-03_012.jpg_Row_601_Col_1651.jpg
+Tempo de analise: 0:00:00.222453
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE14D31_CRC-Prim-HE-03_012.jpg_Row_1501_Col_601.jpg
+Tempo de analise: 0:00:00.214409
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11922_CRC-Prim-HE-05_032.jpg_Row_451_Col_4651.jpg
+Tempo de analise: 0:00:00.223659
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15CD8_CRC-Prim-HE-03_012.jpg_Row_1201_Col_301.jpg
+Tempo de analise: 0:00:00.221266
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE140C1_CRC-Prim-HE-10_020.jpg_Row_151_Col_2851.jpg
+Tempo de analise: 0:00:00.225103
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1174E_CRC-Prim-HE-03_012.jpg_Row_901_Col_901.jpg
+Tempo de analise: 0:00:00.218311
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE163A0_CRC-Prim-HE-06_004.jpg_Row_901_Col_2251.jpg
+Tempo de analise: 0:00:00.213084
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE160A4_CRC-Prim-HE-05_032.jpg_Row_1051_Col_4951.jpg
+Tempo de analise: 0:00:00.229159
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE128C0_CRC-Prim-HE-05_032.jpg_Row_1201_Col_751.jpg
+Tempo de analise: 0:00:00.223743
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12287_CRC-Prim-HE-04_036.jpg_Row_1051_Col_1201.jpg
+Tempo de analise: 0:00:00.219684
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE108E5_CRC-Prim-HE-05_032.jpg_Row_451_Col_2401.jpg
+Tempo de analise: 0:00:00.221770
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10077_CRC-Prim-HE-05_032.jpg_Row_451_Col_601.jpg
+Tempo de analise: 0:00:00.217490
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11A64_CRC-Prim-HE-06_004.jpg_Row_2701_Col_151.jpg
+Tempo de analise: 0:00:00.220484
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE167CE_CRC-Prim-HE-10_020.jpg_Row_1_Col_1351.jpg
+Tempo de analise: 0:00:00.217152
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE166A0_CRC-Prim-HE-03_012.jpg_Row_901_Col_2551.jpg
+Tempo de analise: 0:00:00.221668
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE174BC_CRC-Prim-HE-04_036.jpg_Row_601_Col_1051.jpg
+Tempo de analise: 0:00:00.237399
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE136F7_CRC-Prim-HE-03_012.jpg_Row_151_Col_2701.jpg
+Tempo de analise: 0:00:00.213759
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE122DA_CRC-Prim-HE-05_032.jpg_Row_151_Col_2251.jpg
+Tempo de analise: 0:00:00.220097
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE166A0_CRC-Prim-HE-03_012.jpg_Row_901_Col_2551.jpg
+Tempo de analise: 0:00:00.216509
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11214_CRC-Prim-HE-07.jpg_Row_601_Col_1201.jpg
+Tempo de analise: 0:00:00.226436
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE153E8_CRC-Prim-HE-04_036.jpg_Row_1051_Col_151.jpg
+Tempo de analise: 0:00:00.221468
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16A75_CRC-Prim-HE-07.jpg_Row_451_Col_2851.jpg
+Tempo de analise: 0:00:00.218924
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE17044_CRC-Prim-HE-06_004.jpg_Row_2401_Col_901.jpg
+Tempo de analise: 0:00:00.226645
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE17276_CRC-Prim-HE-03_012.jpg_Row_3601_Col_151.jpg
+Tempo de analise: 0:00:00.218500
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15516_CRC-Prim-HE-05_032.jpg_Row_1201_Col_3301.jpg
+Tempo de analise: 0:00:00.233357
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11979_CRC-Prim-HE-03_012.jpg_Row_1501_Col_901.jpg
+Tempo de analise: 0:00:00.210698
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE17044_CRC-Prim-HE-06_004.jpg_Row_2401_Col_901.jpg
+Tempo de analise: 0:00:00.209929
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE14EFB_CRC-Prim-HE-06_004.jpg_Row_1501_Col_1501.jpg
+Tempo de analise: 0:00:00.215293
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12298_CRC-Prim-HE-05_032.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.209416
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE146AC_CRC-Prim-HE-03_012.jpg_Row_3151_Col_451.jpg
+Tempo de analise: 0:00:00.222299
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE11FC1_CRC-Prim-HE-03_012.jpg_Row_1051_Col_1201.jpg
+Tempo de analise: 0:00:00.226992
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE126EB_CRC-Prim-HE-06_004.jpg_Row_1051_Col_901.jpg
+Tempo de analise: 0:00:00.224346
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE13640_CRC-Prim-HE-03_012.jpg_Row_1951_Col_751.jpg
+Tempo de analise: 0:00:00.212036
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1372_CRC-Prim-HE-06_004.jpg_Row_2101_Col_2701.jpg
+Tempo de analise: 0:00:00.215456
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1117A_CRC-Prim-HE-03_012.jpg_Row_1051_Col_2101.jpg
+Tempo de analise: 0:00:00.210598
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16932_CRC-Prim-HE-10_020.jpg_Row_901_Col_451.jpg
+Tempo de analise: 0:00:00.215893
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12F3_CRC-Prim-HE-05_032.jpg_Row_151_Col_1801.jpg
+Tempo de analise: 0:00:00.226026
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15D41_CRC-Prim-HE-10_020.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.215025
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1326F_CRC-Prim-HE-04_036.jpg_Row_451_Col_1051.jpg
+Tempo de analise: 0:00:00.216442
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE12668_CRC-Prim-HE-04_036.jpg_Row_301_Col_451.jpg
+Tempo de analise: 0:00:00.227883
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1649F_CRC-Prim-HE-03_012.jpg_Row_2701_Col_1351.jpg
+Tempo de analise: 0:00:00.225774
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE16C4D_CRC-Prim-HE-06_004.jpg_Row_1801_Col_2551.jpg
+Tempo de analise: 0:00:00.208859
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE10077_CRC-Prim-HE-05_032.jpg_Row_451_Col_601.jpg
+Tempo de analise: 0:00:00.220519
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1040C_CRC-Prim-HE-05_032.jpg_Row_1051_Col_2101.jpg
+Tempo de analise: 0:00:00.225814
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE109C4_CRC-Prim-HE-05_032.jpg_Row_1501_Col_3151.jpg
+Tempo de analise: 0:00:00.210512
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1117A_CRC-Prim-HE-03_012.jpg_Row_1051_Col_2101.jpg
+Tempo de analise: 0:00:00.213146
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE15FCD_CRC-Prim-HE-03_012.jpg_Row_3001_Col_2851.jpg
+Tempo de analise: 0:00:00.222683
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE1428D_CRC-Prim-HE-06_004.jpg_Row_601_Col_1951.jpg
+Tempo de analise: 0:00:00.224345
+Resultado previsto: 5 =) 07_ADIPOSE
+
+Cobaia selecionada: 07_ADIPOSE156F8_CRC-Prim-HE-10_020.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.223071
+Resultado previsto: 5 =) 07_ADIPOSE
+Total de acertos: 99
+Percentual de acertos: 99.0
+Classe em testes: 02_STROMA
+
+Cobaia selecionada: 02_STROMA11BF1_CRC-Prim-HE-04.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.212098
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA125F8_CRC-Prim-HE-06_003.jpg_Row_451_Col_1351.jpg
+Tempo de analise: 0:00:00.211778
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA125F8_CRC-Prim-HE-06_003.jpg_Row_451_Col_1351.jpg
+Tempo de analise: 0:00:00.218760
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13A0E_CRC-Prim-HE-04.jpg_Row_1201_Col_2401.jpg
+Tempo de analise: 0:00:00.222800
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10D34_CRC-Prim-HE-02_029.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.224350
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA14485_CRC-Prim-HE-04_013.jpg_Row_1351_Col_151.jpg
+Tempo de analise: 0:00:00.217183
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11994_CRC-Prim-HE-04_013.jpg_Row_2401_Col_301.jpg
+Tempo de analise: 0:00:00.222378
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11900_CRC-Prim-HE-05_009b.jpg_Row_751_Col_601.jpg
+Tempo de analise: 0:00:00.220486
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA125B9_CRC-Prim-HE-03_013.jpg_Row_1051_Col_1.jpg
+Tempo de analise: 0:00:00.209122
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1050F_CRC-Prim-HE-03.jpg_Row_451_Col_1651.jpg
+Tempo de analise: 0:00:00.220474
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA100BA_CRC-Prim-HE-03_016.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.217017
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA117A3_CRC-Prim-HE-06_034.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.217174
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA100A6_CRC-Prim-HE-02_029.jpg_Row_601_Col_301.jpg
+Tempo de analise: 0:00:00.219787
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11C0E_CRC-Prim-HE-07_014.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.221678
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1247B_CRC-Prim-HE-06_003.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.220051
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13AB6_CRC-Prim-HE-04.jpg_Row_1951_Col_1651.jpg
+Tempo de analise: 0:00:00.209777
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13A8A_CRC-Prim-HE-01_050.jpg_Row_901_Col_901.jpg
+Tempo de analise: 0:00:00.208813
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA127F5_CRC-Prim-HE-03_003.jpg_Row_751_Col_1051.jpg
+Tempo de analise: 0:00:00.213842
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13151_CRC-Prim-HE-01_050.jpg_Row_1051_Col_1201.jpg
+Tempo de analise: 0:00:00.222093
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12BD8_CRC-Prim-HE-07_014.jpg_Row_451_Col_1801.jpg
+Tempo de analise: 0:00:00.215438
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10584_CRC-Prim-HE-04_013.jpg_Row_1051_Col_1051.jpg
+Tempo de analise: 0:00:00.210733
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA136E_CRC-Prim-HE-09.jpg_Row_451_Col_2401.jpg
+Tempo de analise: 0:00:00.226598
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11B25_CRC-Prim-HE-05_009b.jpg_Row_451_Col_1351.jpg
+Tempo de analise: 0:00:00.208830
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1300F_CRC-Prim-HE-09_017.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.218891
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13717_CRC-Prim-HE-03_008.jpg_Row_1501_Col_1351.jpg
+Tempo de analise: 0:00:00.231222
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12BAC_CRC-Prim-HE-03_001.jpg_Row_601_Col_1201.jpg
+Tempo de analise: 0:00:00.219944
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 02_STROMA10C3_CRC-Prim-HE-01_050.jpg_Row_1_Col_1201.jpg
+Tempo de analise: 0:00:00.210390
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA147DE_CRC-Prim-HE-03_016.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.221489
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1015E_CRC-Prim-HE-05_009b.jpg_Row_751_Col_751.jpg
+Tempo de analise: 0:00:00.217343
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA14180_CRC-Prim-HE-03.jpg_Row_1351_Col_1651.jpg
+Tempo de analise: 0:00:00.230107
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11F06_CRC-Prim-HE-03_008.jpg_Row_1351_Col_1201.jpg
+Tempo de analise: 0:00:00.214129
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA138C8_CRC-Prim-HE-07_026.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.224436
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1372B_CRC-Prim-HE-05_002b.jpg_Row_1501_Col_151.jpg
+Tempo de analise: 0:00:00.220404
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA147E8_CRC-Prim-HE-05_002b.jpg_Row_1501_Col_1.jpg
+Tempo de analise: 0:00:00.220892
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13EBA_CRC-Prim-HE-03_008.jpg_Row_1051_Col_1351.jpg
+Tempo de analise: 0:00:00.232563
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13486_CRC-Prim-HE-04.jpg_Row_1351_Col_1501.jpg
+Tempo de analise: 0:00:00.214296
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10F42_CRC-Prim-HE-03_001.jpg_Row_451_Col_1051.jpg
+Tempo de analise: 0:00:00.218921
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 02_STROMA12636_CRC-Prim-HE-04.jpg_Row_1501_Col_901.jpg
+Tempo de analise: 0:00:00.209053
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA100A6_CRC-Prim-HE-02_015.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.225900
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10C5D_CRC-Prim-HE-03.jpg_Row_1201_Col_1951.jpg
+Tempo de analise: 0:00:00.215281
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 02_STROMA10A01_CRC-Prim-HE-01_005.jpg_Row_1_Col_901.jpg
+Tempo de analise: 0:00:00.208354
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12730_CRC-Prim-HE-03_001.jpg_Row_1051_Col_451.jpg
+Tempo de analise: 0:00:00.208555
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA146CF_CRC-Prim-HE-03_008.jpg_Row_451_Col_751.jpg
+Tempo de analise: 0:00:00.214421
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10E20_CRC-Prim-HE-06_003.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.217677
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13EC2_CRC-Prim-HE-01_050.jpg_Row_751_Col_751.jpg
+Tempo de analise: 0:00:00.221072
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA107F4_CRC-Prim-HE-04_013.jpg_Row_901_Col_1051.jpg
+Tempo de analise: 0:00:00.209951
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA103A0_CRC-Prim-HE-07_014.jpg_Row_451_Col_1351.jpg
+Tempo de analise: 0:00:00.217524
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1027_CRC-Prim-HE-04.jpg_Row_1501_Col_1501.jpg
+Tempo de analise: 0:00:00.209505
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA104FF_CRC-Prim-HE-04_013.jpg_Row_301_Col_751.jpg
+Tempo de analise: 0:00:00.218782
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10B01_CRC-Prim-HE-02_015.jpg_Row_1_Col_2101.jpg
+Tempo de analise: 0:00:00.222547
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1237B_CRC-Prim-HE-03_008.jpg_Row_1651_Col_151.jpg
+Tempo de analise: 0:00:00.215862
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12B4C_CRC-Prim-HE-02_011.jpg_Row_601_Col_451.jpg
+Tempo de analise: 0:00:00.207852
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 02_STROMA12155_CRC-Prim-HE-05_009b.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.216714
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA121F3_CRC-Prim-HE-07_026.jpg_Row_1651_Col_451.jpg
+Tempo de analise: 0:00:00.379609
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1143F_CRC-Prim-HE-06_002.jpg_Row_451_Col_1201.jpg
+Tempo de analise: 0:00:00.251444
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA14206_CRC-Prim-HE-06_034.jpg_Row_901_Col_751.jpg
+Tempo de analise: 0:00:00.222956
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA131A7_CRC-Prim-HE-04.jpg_Row_1801_Col_1501.jpg
+Tempo de analise: 0:00:00.216558
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11F1A_CRC-Prim-HE-04.jpg_Row_151_Col_3451.jpg
+Tempo de analise: 0:00:00.217317
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13DED_CRC-Prim-HE-02_015.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.228971
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13DED_CRC-Prim-HE-02_015.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.210978
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11961_CRC-Prim-HE-01_018.jpg_Row_901_Col_601.jpg
+Tempo de analise: 0:00:00.216237
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13EBA_CRC-Prim-HE-03_008.jpg_Row_1051_Col_1351.jpg
+Tempo de analise: 0:00:00.217245
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1454C_CRC-Prim-HE-02_011.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.222718
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10985_CRC-Prim-HE-07_016.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.222902
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10E92_CRC-Prim-HE-10_019.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.215964
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1262E_CRC-Prim-HE-04_013.jpg_Row_2701_Col_1.jpg
+Tempo de analise: 0:00:00.227760
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA122AA_CRC-Prim-HE-04.jpg_Row_151_Col_2401.jpg
+Tempo de analise: 0:00:00.208300
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10E20_CRC-Prim-HE-06_003.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.217061
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA13F44_CRC-Prim-HE-04.jpg_Row_451_Col_1651.jpg
+Tempo de analise: 0:00:00.225084
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10164_CRC-Prim-HE-01_050.jpg_Row_1201_Col_901.jpg
+Tempo de analise: 0:00:00.220711
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10BE_CRC-Prim-HE-03.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.226506
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11E5C_CRC-Prim-HE-04.jpg_Row_751_Col_1501.jpg
+Tempo de analise: 0:00:00.224138
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA134D5_CRC-Prim-HE-03_016.jpg_Row_151_Col_901.jpg
+Tempo de analise: 0:00:00.222176
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA11D0B_CRC-Prim-HE-03.jpg_Row_1501_Col_1951.jpg
+Tempo de analise: 0:00:00.226567
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA127D4_CRC-Prim-HE-03.jpg_Row_1801_Col_451.jpg
+Tempo de analise: 0:00:00.216823
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA1058B_CRC-Prim-HE-02_015.jpg_Row_151_Col_3601.jpg
+Tempo de analise: 0:00:00.218799
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA110B9_CRC-Prim-HE-06_003.jpg_Row_751_Col_1351.jpg
+Tempo de analise: 0:00:00.213763
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10E4F_CRC-Prim-HE-03.jpg_Row_151_Col_1651.jpg
+Tempo de analise: 0:00:00.225186
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA123C8_CRC-Prim-HE-06_003.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.225520
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10A80_CRC-Prim-HE-04.jpg_Row_1651_Col_3301.jpg
+Tempo de analise: 0:00:00.213163
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12BAC_CRC-Prim-HE-03_001.jpg_Row_601_Col_1201.jpg
+Tempo de analise: 0:00:00.219438
+Resultado previsto: 2 =) 05_DEBRIS
+
+Cobaia selecionada: 02_STROMA12480_CRC-Prim-HE-10_019.jpg_Row_601_Col_1351.jpg
+Tempo de analise: 0:00:00.214021
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA124FF_CRC-Prim-HE-02_015.jpg_Row_601_Col_2401.jpg
+Tempo de analise: 0:00:00.219328
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10A8_CRC-Prim-HE-05_002b.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.200775
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12EF2_CRC-Prim-HE-07_018.jpg_Row_1051_Col_151.jpg
+Tempo de analise: 0:00:00.210414
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12564_CRC-Prim-HE-03_030.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.216640
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA14073_CRC-Prim-HE-04.jpg_Row_751_Col_3301.jpg
+Tempo de analise: 0:00:00.209432
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA130A1_CRC-Prim-HE-07_014.jpg_Row_451_Col_1051.jpg
+Tempo de analise: 0:00:00.225370
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA120AD_CRC-Prim-HE-04_013.jpg_Row_2851_Col_1051.jpg
+Tempo de analise: 0:00:00.216269
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA133A3_CRC-Prim-HE-05_002b.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.215282
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12A3B_CRC-Prim-HE-03_003.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.215676
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10B19_CRC-Prim-HE-04_013.jpg_Row_1801_Col_151.jpg
+Tempo de analise: 0:00:00.218884
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA133A3_CRC-Prim-HE-05_002b.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.226973
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA134D5_CRC-Prim-HE-03_016.jpg_Row_151_Col_901.jpg
+Tempo de analise: 0:00:00.222523
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA144E1_CRC-Prim-HE-01_019.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.221360
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA10BE_CRC-Prim-HE-03.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.218022
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA12564_CRC-Prim-HE-03_030.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.215161
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA145B3_CRC-Prim-HE-03.jpg_Row_301_Col_1801.jpg
+Tempo de analise: 0:00:00.216209
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 02_STROMA14082_CRC-Prim-HE-04.jpg_Row_151_Col_901.jpg
+Tempo de analise: 0:00:00.220425
+Resultado previsto: 1 =) 02_STROMA
+Total de acertos: 94
+Percentual de acertos: 94.0
+Classe em testes: 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO13B76_CRC-Prim-HE-01_038.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.223379
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO14EF7_CRC-Prim-HE-06.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.224488
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOA48C_CRC-Prim-HE-01_002.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.209306
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO12F3E_CRC-Prim-HE-01_004.jpg_Row_151_Col_1051.jpg
+Tempo de analise: 0:00:00.227449
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO13F36_CRC-Prim-HE-06.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.207643
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO299B_CRC-Prim-HE-01_006b.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.213484
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOB69A_CRC-Prim-HE-01_004.jpg_Row_1051_Col_1351.jpg
+Tempo de analise: 0:00:00.215292
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO14DB0_CRC-Prim-HE-01_001.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.211465
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOE2C7_CRC-Prim-HE-09_019.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.213591
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOECFF_CRC-Prim-HE-09_008.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.207770
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOF55A_CRC-Prim-HE-01_013.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.217826
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO12045_CRC-Prim-HE-09_007.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.223889
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO2F4F_CRC-Prim-HE-05_023.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.222697
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO34AF_CRC-Prim-HE-09_013.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.218072
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO58CD_CRC-Prim-HE-01b.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.207481
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOED43_CRC-Prim-HE-01_006b.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.211036
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO9C1E_CRC-Prim-HE-09_005.jpg_Row_601_Col_301.jpg
+Tempo de analise: 0:00:00.203788
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO2EA4_CRC-Prim-HE-02_002b.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.216180
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO115EF_CRC-Prim-HE-05_003.jpg_Row_451_Col_1501.jpg
+Tempo de analise: 0:00:00.223080
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO289A_CRC-Prim-HE-01b.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.211000
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO104BB_CRC-Prim-HE-01_029.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.214513
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO12CD8_CRC-Prim-HE-01_002.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.248199
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO99E7_CRC-Prim-HE-05_022.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.223331
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1BFE_CRC-Prim-HE-05_004.jpg_Row_601_Col_751.jpg
+Tempo de analise: 0:00:00.210952
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO13B76_CRC-Prim-HE-01_038.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.222270
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOC1A8_CRC-Prim-HE-01_005.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.211708
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1E7_CRC-Prim-HE-01_006b.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.216206
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO13E8D_CRC-Prim-HE-01_004.jpg_Row_901_Col_1051.jpg
+Tempo de analise: 0:00:00.214170
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOA45B_CRC-Prim-HE-05_004.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.223751
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO17135_CRC-Prim-HE-02_001b.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.218734
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO2820_CRC-Prim-HE-02.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.216674
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO15C76_CRC-Prim-HE-01_005.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.214351
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO14A25_CRC-Prim-HE-01_004.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.213042
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD948_CRC-Prim-HE-09_006.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.221453
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOBF6D_CRC-Prim-HE-01_007.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.209037
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO543C_CRC-Prim-HE-01_006b.jpg_Row_151_Col_751.jpg
+Tempo de analise: 0:00:00.210474
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO7C4C_CRC-Prim-HE-01_004.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.224065
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO41EE_CRC-Prim-HE-02.jpg_Row_451_Col_451.jpg
+Tempo de analise: 0:00:00.227036
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO10FD6_CRC-Prim-HE-01_004.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.211430
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOC9FE_CRC-Prim-HE-02_002.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.220176
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO50B4_CRC-Prim-HE-02_001b.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.230647
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO6CCE_CRC-Prim-HE-01_005.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.215483
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO2CE8_CRC-Prim-HE-01_005.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.207978
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOA72D_CRC-Prim-HE-01_004.jpg_Row_751_Col_1201.jpg
+Tempo de analise: 0:00:00.213867
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO167FE_CRC-Prim-HE-01_004.jpg_Row_151_Col_1201.jpg
+Tempo de analise: 0:00:00.214563
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO176E8_CRC-Prim-HE-05_003.jpg_Row_301_Col_1951.jpg
+Tempo de analise: 0:00:00.228151
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO73D4_CRC-Prim-HE-09_008.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.227910
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO66C5_CRC-Prim-HE-02_copy.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.234442
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1A3D_CRC-Prim-HE-02_copy.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.219961
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO178E3_CRC-Prim-HE-09_007.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.212585
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO10B3B_CRC-Prim-HE-05_028.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.215908
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD077_CRC-Prim-HE-02_copy.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.219949
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO14AF3_CRC-Prim-HE-01b.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.215377
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO704E_CRC-Prim-HE-01_038.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.211709
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1D7D_CRC-Prim-HE-05_003.jpg_Row_1_Col_1501.jpg
+Tempo de analise: 0:00:00.220447
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO5971_CRC-Prim-HE-03_032.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.223335
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO11E80_CRC-Prim-HE-01_004.jpg_Row_1051_Col_301.jpg
+Tempo de analise: 0:00:00.223874
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOC9FE_CRC-Prim-HE-02_002.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.207073
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOE83B_CRC-Prim-HE-01_005.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.221539
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO2BD3_CRC-Prim-HE-05_010.jpg_Row_1051_Col_301.jpg
+Tempo de analise: 0:00:00.218482
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO7102_CRC-Prim-HE-05_004.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.223595
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO129F_CRC-Prim-HE-05_004.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.218546
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO16B6A_CRC-Prim-HE-02_001b.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.224708
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO197C_CRC-Prim-HE-02.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.215394
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO12402_CRC-Prim-HE-01_029.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.218695
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO195_CRC-Prim-HE-05_022.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.219372
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1FD7_CRC-Prim-HE-04_031.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.225959
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO3AEA_CRC-Prim-HE-02_copy.jpg_Row_151_Col_751.jpg
+Tempo de analise: 0:00:00.215837
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO14C38_CRC-Prim-HE-05_004.jpg_Row_451_Col_451.jpg
+Tempo de analise: 0:00:00.216414
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO24A6_CRC-Prim-HE-09_020.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.210367
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO195_CRC-Prim-HE-05_022.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.215589
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD05F_CRC-Prim-HE-01_002.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.216994
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO24A6_CRC-Prim-HE-09_020.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.218946
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO2F4F_CRC-Prim-HE-05_023.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.216498
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO16837_CRC-Prim-HE-06.jpg_Row_301_Col_451.jpg
+Tempo de analise: 0:00:00.221351
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO13DD5_CRC-Prim-HE-02_012.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.214035
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO6BA1_CRC-Prim-HE-04_031.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.220839
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO7BAA_CRC-Prim-HE-05_004.jpg_Row_151_Col_751.jpg
+Tempo de analise: 0:00:00.216144
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO3037_CRC-Prim-HE-09_008.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.215499
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO6B63_CRC-Prim-HE-06.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.214337
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO11857_CRC-Prim-HE-02.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.211588
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD33A_CRC-Prim-HE-05_010.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.220991
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOE8_CRC-Prim-HE-09_006.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.210321
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOB088_CRC-Prim-HE-05_004.jpg_Row_601_Col_451.jpg
+Tempo de analise: 0:00:00.222002
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO923A_CRC-Prim-HE-09_019.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.219674
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO167FE_CRC-Prim-HE-01_004.jpg_Row_151_Col_1201.jpg
+Tempo de analise: 0:00:00.215331
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO3FBD_CRC-Prim-HE-05_003.jpg_Row_301_Col_901.jpg
+Tempo de analise: 0:00:00.226723
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO9390_CRC-Prim-HE-02_002.jpg_Row_751_Col_1.jpg
+Tempo de analise: 0:00:00.224547
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1140F_CRC-Prim-HE-05_023.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.213961
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD6C9_CRC-Prim-HE-02_002.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.221689
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO3AB7_CRC-Prim-HE-05_003.jpg_Row_151_Col_1801.jpg
+Tempo de analise: 0:00:00.218019
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO9DD4_CRC-Prim-HE-02.jpg_Row_601_Col_451.jpg
+Tempo de analise: 0:00:00.232796
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO46EA_CRC-Prim-HE-02.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.209210
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD0E9_CRC-Prim-HE-05_004.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.221221
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO18180_CRC-Prim-HE-10c.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.207281
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOD077_CRC-Prim-HE-02_copy.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.218081
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHOF8CB_CRC-Prim-HE-01_005.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.216802
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO14AF3_CRC-Prim-HE-01b.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.222693
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 04_LYMPHO1355_CRC-Prim-HE-05_010.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.215440
+Resultado previsto: 3 =) 04_LYMPHO
+Total de acertos: 99
+Percentual de acertos: 99.0
+Classe em testes: 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX18255_CRC-Prim-HE-10_025.jpg_Row_1201_Col_151.jpg
+Tempo de analise: 0:00:00.218226
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX5315_CRC-Prim-HE-01_037.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.238452
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX13CD5_CRC-Prim-HE-07_005.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.230051
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 03_COMPLEX1067F_CRC-Prim-HE-09_015.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.227045
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6A93_CRC-Prim-HE-02_008.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.227271
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6DC5_CRC-Prim-HE-09_015.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.237420
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX180A1_CRC-Prim-HE-03_033.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.241153
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX13933_CRC-Prim-HE-06_012.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.243751
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1089C_CRC-Prim-HE-09_016.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.219291
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX11996_CRC-Prim-HE-07_013.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.218947
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX12759_CRC-Prim-HE-10_009.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.215595
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1FA3_CRC-Prim-HE-07_003.jpg_Row_151_Col_601.jpg
+Tempo de analise: 0:00:00.219693
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX147C6_CRC-Prim-HE-10_004.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.221353
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX107BF_CRC-Prim-HE-06_030.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.217120
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX18004_CRC-Prim-HE-06_017.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.242011
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX15DB3_CRC-Prim-HE-05_009a.jpg_Row_601_Col_601.jpg
+Tempo de analise: 0:00:00.212693
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX421E_CRC-Prim-HE-03_002.jpg_Row_301_Col_751.jpg
+Tempo de analise: 0:00:00.224261
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX17CC_CRC-Prim-HE-07_017.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.235347
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX13CD5_CRC-Prim-HE-07_005.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.381537
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 03_COMPLEX18A5_CRC-Prim-HE-05_009a.jpg_Row_151_Col_1501.jpg
+Tempo de analise: 0:00:00.251337
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1713F_CRC-Prim-HE-01_022.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.224043
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX15BBF_CRC-Prim-HE-09_016.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.223295
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX18635_CRC-Prim-HE-10_003.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.214463
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX12598_CRC-Prim-HE-07_003.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.210534
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX7A81_CRC-Prim-HE-03_002.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.210787
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6817_CRC-Prim-HE-08_013.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.230916
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX10D46_CRC-Prim-HE-03_026.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.224444
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX56B0_CRC-Prim-HE-01_049.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.246755
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX140BC_CRC-Prim-HE-03_025.jpg_Row_1_Col_751.jpg
+Tempo de analise: 0:00:00.215659
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX50CC_CRC-Prim-HE-05_002a.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.212772
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX546F_CRC-Prim-HE-05_009a.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.219254
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX16799_CRC-Prim-HE-07_019.jpg_Row_1051_Col_301.jpg
+Tempo de analise: 0:00:00.229069
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX16121_CRC-Prim-HE-03_002.jpg_Row_751_Col_1201.jpg
+Tempo de analise: 0:00:00.215029
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1419B_CRC-Prim-HE-06_011.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.214549
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX12E88_CRC-Prim-HE-07_015.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.212709
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX315F_CRC-Prim-HE-10_005.jpg_Row_301_Col_151.jpg
+Tempo de analise: 0:00:00.218695
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX64BE_CRC-Prim-HE-05_009a.jpg_Row_601_Col_1201.jpg
+Tempo de analise: 0:00:00.217900
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1661D_CRC-Prim-HE-01_030.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.213724
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX136FB_CRC-Prim-HE-03_026.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.217064
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 03_COMPLEX27A5_CRC-Prim-HE-03_002.jpg_Row_301_Col_1801.jpg
+Tempo de analise: 0:00:00.222775
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX74FE_CRC-Prim-HE-05_012.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.215247
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX12A65_CRC-Prim-HE-01_021.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.239769
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX159B7_CRC-Prim-HE-05_021.jpg_Row_1_Col_601.jpg
+Tempo de analise: 0:00:00.209527
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6A93_CRC-Prim-HE-02_008.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.208406
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX3855_CRC-Prim-HE-03_002.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.215413
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1D7_CRC-Prim-HE-01_036.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.217557
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX5E29_CRC-Prim-HE-09_015.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.215778
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX16A4B_CRC-Prim-HE-03_033.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.210315
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX10F5_CRC-Prim-HE-03_002.jpg_Row_901_Col_901.jpg
+Tempo de analise: 0:00:00.222783
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX4324_CRC-Prim-HE-02_008.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.211422
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX15E71_CRC-Prim-HE-09_016.jpg_Row_301_Col_751.jpg
+Tempo de analise: 0:00:00.206706
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX57DD_CRC-Prim-HE-05_012.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.228564
+Resultado previsto: 3 =) 04_LYMPHO
+
+Cobaia selecionada: 03_COMPLEX2C3B_CRC-Prim-HE-03_002.jpg_Row_901_Col_1.jpg
+Tempo de analise: 0:00:00.219399
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX52E_CRC-Prim-HE-03_002.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.220399
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX39A4_CRC-Prim-HE-10_003.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.215465
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX429D_CRC-Prim-HE-06_006.jpg_Row_151_Col_1351.jpg
+Tempo de analise: 0:00:00.231890
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX227A_CRC-Prim-HE-05_021.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.216025
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1184E_CRC-Prim-HE-10_003.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.216344
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX39A4_CRC-Prim-HE-10_003.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.215861
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX14366_CRC-Prim-HE-03_026.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.232268
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX42DD_CRC-Prim-HE-03_002.jpg_Row_1051_Col_601.jpg
+Tempo de analise: 0:00:00.233767
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6FD1_CRC-Prim-HE-08_013.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.244601
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX14D11_CRC-Prim-HE-10_025.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.223564
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX5695_CRC-Prim-HE-09_015.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.211433
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX229D_CRC-Prim-HE-05_009a.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.221378
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX4F3E_CRC-Prim-HE-05_012.jpg_Row_1_Col_1051.jpg
+Tempo de analise: 0:00:00.228501
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6CFE_CRC-Prim-HE-08_005.jpg_Row_1351_Col_1.jpg
+Tempo de analise: 0:00:00.218957
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX2D79_CRC-Prim-HE-01_035.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.227596
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX15E93_CRC-Prim-HE-07_012.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.224906
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX18066_CRC-Prim-HE-02_019.jpg_Row_1_Col_1.jpg
+Tempo de analise: 0:00:00.212864
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX16A25_CRC-Prim-HE-03_026.jpg_Row_301_Col_451.jpg
+Tempo de analise: 0:00:00.212449
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX3541_CRC-Prim-HE-07_015.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.211918
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1687D_CRC-Prim-HE-01_037.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.213656
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 03_COMPLEX1178E_CRC-Prim-HE-01_049.jpg_Row_1_Col_151.jpg
+Tempo de analise: 0:00:00.214589
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX164A_CRC-Prim-HE-03_026.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.231822
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX17BB_CRC-Prim-HE-06_030.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.219911
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX10011_CRC-Prim-HE-03_002.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.217861
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX16E21_CRC-Prim-HE-06_007.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.223581
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX4FDC_CRC-Prim-HE-06_030.jpg_Row_1_Col_751.jpg
+Tempo de analise: 0:00:00.218125
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX10C35_CRC-Prim-HE-02_032.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.222445
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX3855_CRC-Prim-HE-03_002.jpg_Row_751_Col_301.jpg
+Tempo de analise: 0:00:00.212668
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX3BCA_CRC-Prim-HE-09_028.jpg_Row_301_Col_1.jpg
+Tempo de analise: 0:00:00.213490
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX10F84_CRC-Prim-HE-03_025.jpg_Row_151_Col_451.jpg
+Tempo de analise: 0:00:00.210382
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX263A_CRC-Prim-HE-03_002.jpg_Row_601_Col_2251.jpg
+Tempo de analise: 0:00:00.218396
+Resultado previsto: 1 =) 02_STROMA
+
+Cobaia selecionada: 03_COMPLEX1095A_CRC-Prim-HE-07_019.jpg_Row_901_Col_151.jpg
+Tempo de analise: 0:00:00.216839
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1097C_CRC-Prim-HE-03_025.jpg_Row_151_Col_601.jpg
+Tempo de analise: 0:00:00.211615
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX2A72_CRC-Prim-HE-06_011.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.230315
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6C82_CRC-Prim-HE-10_004.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.211274
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1652C_CRC-Prim-HE-03_002.jpg_Row_1201_Col_2251.jpg
+Tempo de analise: 0:00:00.208859
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX5D72_CRC-Prim-HE-05_009a.jpg_Row_301_Col_751.jpg
+Tempo de analise: 0:00:00.212746
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX43C1_CRC-Prim-HE-05_009a.jpg_Row_1_Col_901.jpg
+Tempo de analise: 0:00:00.217110
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1D7_CRC-Prim-HE-01_036.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.211529
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX17D7C_CRC-Prim-HE-01_014.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.211691
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX4078_CRC-Prim-HE-03_002.jpg_Row_601_Col_901.jpg
+Tempo de analise: 0:00:00.214414
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX6FD1_CRC-Prim-HE-08_013.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.230597
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX1180D_CRC-Prim-HE-09_015.jpg_Row_151_Col_1.jpg
+Tempo de analise: 0:00:00.232750
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX28C9_CRC-Prim-HE-03_002.jpg_Row_1201_Col_1501.jpg
+Tempo de analise: 0:00:00.215619
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX5BA3_CRC-Prim-HE-06_006.jpg_Row_451_Col_901.jpg
+Tempo de analise: 0:00:00.215330
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 03_COMPLEX16E3D_CRC-Prim-HE-06_028.jpg_Row_1_Col_451.jpg
+Tempo de analise: 0:00:00.213739
+Resultado previsto: 7 =) 03_COMPLEX
+Total de acertos: 93
+Percentual de acertos: 93.0
+Classe em testes: 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1145_CRC-Prim-HE-09_001.jpg_Row_301_Col_1201.jpg
+Tempo de analise: 0:00:00.212653
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1530E_CRC-Prim-HE-05_030.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.222601
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA17AB_CRC-Prim-HE-08_008.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.209591
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1399B_CRC-Prim-HE-05_030.jpg_Row_1_Col_901.jpg
+Tempo de analise: 0:00:00.219593
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2E1E_CRC-Prim-HE-05.jpg_Row_1201_Col_601.jpg
+Tempo de analise: 0:00:00.222564
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA11637_CRC-Prim-HE-05.jpg_Row_1951_Col_151.jpg
+Tempo de analise: 0:00:00.220038
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2C92_CRC-Prim-HE-03_006.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.219960
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA15722_CRC-Prim-HE-08_008.jpg_Row_751_Col_151.jpg
+Tempo de analise: 0:00:00.221322
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2742_CRC-Prim-HE-09_001.jpg_Row_601_Col_1.jpg
+Tempo de analise: 0:00:00.227265
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA12E6D_CRC-Prim-HE-05.jpg_Row_1801_Col_1351.jpg
+Tempo de analise: 0:00:00.239671
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA150F7_CRC-Prim-HE-06_032.jpg_Row_1351_Col_751.jpg
+Tempo de analise: 0:00:00.239167
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA13527_CRC-Prim-HE-06_001.jpg_Row_1201_Col_151.jpg
+Tempo de analise: 0:00:00.221007
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA16DF1_CRC-Prim-HE-05_030.jpg_Row_901_Col_1051.jpg
+Tempo de analise: 0:00:00.217084
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA18634_CRC-Prim-HE-06_032.jpg_Row_451_Col_751.jpg
+Tempo de analise: 0:00:00.238253
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA161B6_CRC-Prim-HE-08_022.jpg_Row_151_Col_1651.jpg
+Tempo de analise: 0:00:00.243105
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA161A7_CRC-Prim-HE-09_001.jpg_Row_1351_Col_751.jpg
+Tempo de analise: 0:00:00.209837
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA14CDE_CRC-Prim-HE-03_006.jpg_Row_301_Col_1201.jpg
+Tempo de analise: 0:00:00.226302
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA147CE_CRC-Prim-HE-08_022.jpg_Row_451_Col_1951.jpg
+Tempo de analise: 0:00:00.216905
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA15C92_CRC-Prim-HE-06_033.jpg_Row_451_Col_751.jpg
+Tempo de analise: 0:00:00.233860
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA26C5_CRC-Prim-HE-05.jpg_Row_751_Col_1201.jpg
+Tempo de analise: 0:00:00.223954
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA120F1_CRC-Prim-HE-05.jpg_Row_2551_Col_301.jpg
+Tempo de analise: 0:00:00.230339
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1621F_CRC-Prim-HE-06_035.jpg_Row_901_Col_301.jpg
+Tempo de analise: 0:00:00.221496
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2D99_CRC-Prim-HE-06_032.jpg_Row_751_Col_1.jpg
+Tempo de analise: 0:00:00.220935
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA126AC_CRC-Prim-HE-03_006.jpg_Row_1051_Col_901.jpg
+Tempo de analise: 0:00:00.216020
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA13F95_CRC-Prim-HE-08_022.jpg_Row_151_Col_1501.jpg
+Tempo de analise: 0:00:00.216718
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10E8E_CRC-Prim-HE-09_001.jpg_Row_1351_Col_1051.jpg
+Tempo de analise: 0:00:00.232141
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1455E_CRC-Prim-HE-08_025.jpg_Row_451_Col_301.jpg
+Tempo de analise: 0:00:00.211010
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA147DD_CRC-Prim-HE-07_001.jpg_Row_151_Col_1801.jpg
+Tempo de analise: 0:00:00.224843
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA16911_CRC-Prim-HE-08_022.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.218309
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA18534_CRC-Prim-HE-07_001_copy.jpg_Row_751_Col_451.jpg
+Tempo de analise: 0:00:00.221919
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1235A_CRC-Prim-HE-09_001.jpg_Row_301_Col_601.jpg
+Tempo de analise: 0:00:00.217487
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA18432_CRC-Prim-HE-07_001.jpg_Row_1_Col_2251.jpg
+Tempo de analise: 0:00:00.218228
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1495A_CRC-Prim-HE-03_006.jpg_Row_1651_Col_601.jpg
+Tempo de analise: 0:00:00.213138
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA15278_CRC-Prim-HE-07_001.jpg_Row_901_Col_451.jpg
+Tempo de analise: 0:00:00.232534
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA178F6_CRC-Prim-HE-05.jpg_Row_301_Col_1201.jpg
+Tempo de analise: 0:00:00.216146
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA168E3_CRC-Prim-HE-03_007.jpg_Row_151_Col_1651.jpg
+Tempo de analise: 0:00:00.211147
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA26D2_CRC-Prim-HE-08_025.jpg_Row_1801_Col_151.jpg
+Tempo de analise: 0:00:00.213267
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10D83_CRC-Prim-HE-06_001.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.221009
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA168B1_CRC-Prim-HE-03_006.jpg_Row_1501_Col_901.jpg
+Tempo de analise: 0:00:00.211624
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10903_CRC-Prim-HE-09_001.jpg_Row_1801_Col_1651.jpg
+Tempo de analise: 0:00:00.212480
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA150CB_CRC-Prim-HE-08_022.jpg_Row_151_Col_1951.jpg
+Tempo de analise: 0:00:00.209704
+Resultado previsto: 7 =) 03_COMPLEX
+
+Cobaia selecionada: 06_MUCOSA104D0_CRC-Prim-HE-07_001_copy.jpg_Row_1501_Col_451.jpg
+Tempo de analise: 0:00:00.212555
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1CA2_CRC-Prim-HE-06_032.jpg_Row_1201_Col_151.jpg
+Tempo de analise: 0:00:00.208873
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA153A0_CRC-Prim-HE-06_001.jpg_Row_901_Col_1.jpg
+Tempo de analise: 0:00:00.208670
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA165A4_CRC-Prim-HE-09_001.jpg_Row_1051_Col_1051.jpg
+Tempo de analise: 0:00:00.221385
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA161A7_CRC-Prim-HE-09_001.jpg_Row_1351_Col_751.jpg
+Tempo de analise: 0:00:00.212071
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1621F_CRC-Prim-HE-06_035.jpg_Row_901_Col_301.jpg
+Tempo de analise: 0:00:00.209580
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA17063_CRC-Prim-HE-06_001.jpg_Row_451_Col_601.jpg
+Tempo de analise: 0:00:00.221805
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA17C55_CRC-Prim-HE-05_030.jpg_Row_1_Col_301.jpg
+Tempo de analise: 0:00:00.216337
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA12BEF_CRC-Prim-HE-05.jpg_Row_751_Col_901.jpg
+Tempo de analise: 0:00:00.220595
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA15F9E_CRC-Prim-HE-03_007.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.214959
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA14CC6_CRC-Prim-HE-08_022.jpg_Row_301_Col_1501.jpg
+Tempo de analise: 0:00:00.241904
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA172A_CRC-Prim-HE-03_006.jpg_Row_901_Col_1501.jpg
+Tempo de analise: 0:00:00.226433
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1A62_CRC-Prim-HE-05.jpg_Row_1201_Col_1501.jpg
+Tempo de analise: 0:00:00.219326
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1530E_CRC-Prim-HE-05_030.jpg_Row_451_Col_151.jpg
+Tempo de analise: 0:00:00.218994
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA3281_CRC-Prim-HE-05.jpg_Row_2251_Col_1651.jpg
+Tempo de analise: 0:00:00.214126
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA16859_CRC-Prim-HE-07_001_copy.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.226647
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA126F2_CRC-Prim-HE-07_001.jpg_Row_451_Col_1051.jpg
+Tempo de analise: 0:00:00.213175
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA11350_CRC-Prim-HE-09_001.jpg_Row_1651_Col_901.jpg
+Tempo de analise: 0:00:00.212647
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA26DE_CRC-Prim-HE-07_001.jpg_Row_601_Col_2101.jpg
+Tempo de analise: 0:00:00.223302
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1394_CRC-Prim-HE-05.jpg_Row_1801_Col_1051.jpg
+Tempo de analise: 0:00:00.212354
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1B2A_CRC-Prim-HE-08_025.jpg_Row_1051_Col_1.jpg
+Tempo de analise: 0:00:00.225959
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA12F59_CRC-Prim-HE-07_001.jpg_Row_451_Col_3001.jpg
+Tempo de analise: 0:00:00.216115
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA11CB1_CRC-Prim-HE-07_001.jpg_Row_601_Col_3001.jpg
+Tempo de analise: 0:00:00.219319
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10903_CRC-Prim-HE-09_001.jpg_Row_1801_Col_1651.jpg
+Tempo de analise: 0:00:00.212447
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA20A2_CRC-Prim-HE-05.jpg_Row_1051_Col_1051.jpg
+Tempo de analise: 0:00:00.219351
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA26A4_CRC-Prim-HE-05.jpg_Row_751_Col_1651.jpg
+Tempo de analise: 0:00:00.220600
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA16D59_CRC-Prim-HE-08_022.jpg_Row_451_Col_751.jpg
+Tempo de analise: 0:00:00.226036
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA17BF3_CRC-Prim-HE-05.jpg_Row_1501_Col_901.jpg
+Tempo de analise: 0:00:00.385760
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2CB2_CRC-Prim-HE-06_035.jpg_Row_151_Col_151.jpg
+Tempo de analise: 0:00:00.244649
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA147CE_CRC-Prim-HE-08_022.jpg_Row_451_Col_1951.jpg
+Tempo de analise: 0:00:00.217779
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA174F1_CRC-Prim-HE-05_030.jpg_Row_151_Col_301.jpg
+Tempo de analise: 0:00:00.227757
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA15E97_CRC-Prim-HE-05_030.jpg_Row_1051_Col_301.jpg
+Tempo de analise: 0:00:00.220675
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10333_CRC-Prim-HE-09_001.jpg_Row_1651_Col_1.jpg
+Tempo de analise: 0:00:00.230912
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA13D95_CRC-Prim-HE-05.jpg_Row_2251_Col_901.jpg
+Tempo de analise: 0:00:00.215435
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA24F2_CRC-Prim-HE-09_001.jpg_Row_1951_Col_1651.jpg
+Tempo de analise: 0:00:00.222518
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA175CB_CRC-Prim-HE-03_007.jpg_Row_1_Col_1051.jpg
+Tempo de analise: 0:00:00.215737
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA144B0_CRC-Prim-HE-08_025.jpg_Row_1051_Col_151.jpg
+Tempo de analise: 0:00:00.211363
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA14F1F_CRC-Prim-HE-06_035.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.220375
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1925_CRC-Prim-HE-08_008.jpg_Row_601_Col_151.jpg
+Tempo de analise: 0:00:00.221272
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA15F45_CRC-Prim-HE-08_025.jpg_Row_1351_Col_301.jpg
+Tempo de analise: 0:00:00.216787
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA172A_CRC-Prim-HE-03_006.jpg_Row_901_Col_1501.jpg
+Tempo de analise: 0:00:00.219458
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA195B_CRC-Prim-HE-05_030.jpg_Row_901_Col_151.jpg
+Tempo de analise: 0:00:00.230636
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1112E_CRC-Prim-HE-05.jpg_Row_1501_Col_1201.jpg
+Tempo de analise: 0:00:00.224513
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA26A6_CRC-Prim-HE-03_006.jpg_Row_751_Col_751.jpg
+Tempo de analise: 0:00:00.226711
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1184B_CRC-Prim-HE-07_001.jpg_Row_301_Col_301.jpg
+Tempo de analise: 0:00:00.222303
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA173A7_CRC-Prim-HE-06_032.jpg_Row_1051_Col_151.jpg
+Tempo de analise: 0:00:00.218877
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA147CE_CRC-Prim-HE-08_022.jpg_Row_451_Col_1951.jpg
+Tempo de analise: 0:00:00.222356
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA161C1_CRC-Prim-HE-07_001_copy.jpg_Row_1051_Col_151.jpg
+Tempo de analise: 0:00:00.210569
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10B92_CRC-Prim-HE-05_011.jpg_Row_151_Col_901.jpg
+Tempo de analise: 0:00:00.212615
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1510A_CRC-Prim-HE-07_001_copy.jpg_Row_601_Col_451.jpg
+Tempo de analise: 0:00:00.222290
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA154EC_CRC-Prim-HE-06_033.jpg_Row_151_Col_601.jpg
+Tempo de analise: 0:00:00.219896
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2D99_CRC-Prim-HE-06_032.jpg_Row_751_Col_1.jpg
+Tempo de analise: 0:00:00.223091
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA13B74_CRC-Prim-HE-08_008.jpg_Row_751_Col_451.jpg
+Tempo de analise: 0:00:00.227192
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA12F53_CRC-Prim-HE-05.jpg_Row_2701_Col_1201.jpg
+Tempo de analise: 0:00:00.220521
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA10467_CRC-Prim-HE-03_007.jpg_Row_301_Col_2101.jpg
+Tempo de analise: 0:00:00.220359
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA1261E_CRC-Prim-HE-06_033.jpg_Row_151_Col_751.jpg
+Tempo de analise: 0:00:00.213944
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA11271_CRC-Prim-HE-06_001.jpg_Row_1051_Col_601.jpg
+Tempo de analise: 0:00:00.223146
+Resultado previsto: 0 =) 06_MUCOSA
+
+Cobaia selecionada: 06_MUCOSA2387_CRC-Prim-HE-06_001.jpg_Row_451_Col_1.jpg
+Tempo de analise: 0:00:00.225512
+Resultado previsto: 3 =) 04_LYMPHO
+Total de acertos: 97
+Percentual de acertos: 97.0
+
+
+Total de acertos em todas as classes: 772
+Percentual de acertos: 97.47

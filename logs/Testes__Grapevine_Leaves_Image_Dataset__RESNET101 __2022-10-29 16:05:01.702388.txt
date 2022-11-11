@@ -1,0 +1,2004 @@
+
+
+Modelo rede analisado: 8
+Dataset utilizado: /home/pi/Deposito/Projetos/Pessoais/Artigos/ComparativoTexturas/datasets/Grapevine_Leaves_Image_Dataset
+Nome do arquivo com a rede: pesos/Grapevine_Leaves_Image_Dataset/ResNet101.h5
+Classe em testes: Ala_Idris
+
+Cobaia selecionada: Ala_IdrisAla_Idris (50).png
+Tempo de analise: 0:00:08.615461
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (11).png
+Tempo de analise: 0:00:00.254770
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (3).png
+Tempo de analise: 0:00:00.269908
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (72).png
+Tempo de analise: 0:00:00.264240
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (71).png
+Tempo de analise: 0:00:00.263113
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (86).png
+Tempo de analise: 0:00:00.266451
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (83).png
+Tempo de analise: 0:00:00.254661
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (87).png
+Tempo de analise: 0:00:00.255523
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (59).png
+Tempo de analise: 0:00:00.252039
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (81).png
+Tempo de analise: 0:00:00.268258
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (37).png
+Tempo de analise: 0:00:00.263715
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (12).png
+Tempo de analise: 0:00:00.254663
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (2).png
+Tempo de analise: 0:00:00.274115
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (48).png
+Tempo de analise: 0:00:00.262447
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (41).png
+Tempo de analise: 0:00:00.256326
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (46).png
+Tempo de analise: 0:00:00.255744
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (51).png
+Tempo de analise: 0:00:00.256905
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (5).png
+Tempo de analise: 0:00:00.264357
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (24).png
+Tempo de analise: 0:00:00.265938
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (52).png
+Tempo de analise: 0:00:00.380446
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: Ala_IdrisAla_Idris (12).png
+Tempo de analise: 0:00:00.260445
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (69).png
+Tempo de analise: 0:00:00.255439
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (64).png
+Tempo de analise: 0:00:00.254195
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (22).png
+Tempo de analise: 0:00:00.258947
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (96).png
+Tempo de analise: 0:00:00.251501
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (14).png
+Tempo de analise: 0:00:00.261624
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (79).png
+Tempo de analise: 0:00:00.260669
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (21).png
+Tempo de analise: 0:00:00.258719
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (26).png
+Tempo de analise: 0:00:00.257888
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (21).png
+Tempo de analise: 0:00:00.261850
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (20).png
+Tempo de analise: 0:00:00.256796
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (94).png
+Tempo de analise: 0:00:00.253746
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (46).png
+Tempo de analise: 0:00:00.264825
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (68).png
+Tempo de analise: 0:00:00.244594
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (17).png
+Tempo de analise: 0:00:00.263797
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (97).png
+Tempo de analise: 0:00:00.265568
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (6).png
+Tempo de analise: 0:00:00.250627
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (33).png
+Tempo de analise: 0:00:00.250542
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (86).png
+Tempo de analise: 0:00:00.258048
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (44).png
+Tempo de analise: 0:00:00.261435
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (25).png
+Tempo de analise: 0:00:00.263290
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (95).png
+Tempo de analise: 0:00:00.258677
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (60).png
+Tempo de analise: 0:00:00.257725
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (77).png
+Tempo de analise: 0:00:00.255637
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (15).png
+Tempo de analise: 0:00:00.254532
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (85).png
+Tempo de analise: 0:00:00.258150
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (64).png
+Tempo de analise: 0:00:00.253755
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (58).png
+Tempo de analise: 0:00:00.254727
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (28).png
+Tempo de analise: 0:00:00.259837
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (45).png
+Tempo de analise: 0:00:00.260369
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (28).png
+Tempo de analise: 0:00:00.265464
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (57).png
+Tempo de analise: 0:00:00.266188
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (40).png
+Tempo de analise: 0:00:00.255824
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (22).png
+Tempo de analise: 0:00:00.255316
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (64).png
+Tempo de analise: 0:00:00.278049
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (84).png
+Tempo de analise: 0:00:00.255776
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (85).png
+Tempo de analise: 0:00:00.267805
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (13).png
+Tempo de analise: 0:00:00.242421
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (8).png
+Tempo de analise: 0:00:00.256342
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (30).png
+Tempo de analise: 0:00:00.259211
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (8).png
+Tempo de analise: 0:00:00.255539
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (13).png
+Tempo de analise: 0:00:00.245683
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (58).png
+Tempo de analise: 0:00:00.252947
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (80).png
+Tempo de analise: 0:00:00.251510
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (10).png
+Tempo de analise: 0:00:00.259382
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (83).png
+Tempo de analise: 0:00:00.254327
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (54).png
+Tempo de analise: 0:00:00.260189
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (31).png
+Tempo de analise: 0:00:00.248010
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (12).png
+Tempo de analise: 0:00:00.259679
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (54).png
+Tempo de analise: 0:00:00.256116
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (86).png
+Tempo de analise: 0:00:00.255927
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (14).png
+Tempo de analise: 0:00:00.257282
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (8).png
+Tempo de analise: 0:00:00.245350
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (87).png
+Tempo de analise: 0:00:00.261635
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (42).png
+Tempo de analise: 0:00:00.255911
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (18).png
+Tempo de analise: 0:00:00.259198
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (58).png
+Tempo de analise: 0:00:00.268812
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (22).png
+Tempo de analise: 0:00:00.259871
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (96).png
+Tempo de analise: 0:00:00.253890
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (21).png
+Tempo de analise: 0:00:00.255654
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (3).png
+Tempo de analise: 0:00:00.262919
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (71).png
+Tempo de analise: 0:00:00.256618
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (73).png
+Tempo de analise: 0:00:00.255636
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (39).png
+Tempo de analise: 0:00:00.267292
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (45).png
+Tempo de analise: 0:00:00.248689
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (36).png
+Tempo de analise: 0:00:00.275261
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (17).png
+Tempo de analise: 0:00:00.271695
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (62).png
+Tempo de analise: 0:00:00.251911
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (51).png
+Tempo de analise: 0:00:00.260457
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (79).png
+Tempo de analise: 0:00:00.256051
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (79).png
+Tempo de analise: 0:00:00.259258
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (18).png
+Tempo de analise: 0:00:00.261414
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (66).png
+Tempo de analise: 0:00:00.261399
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (40).png
+Tempo de analise: 0:00:00.265515
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (29).png
+Tempo de analise: 0:00:00.264270
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (99).png
+Tempo de analise: 0:00:00.259213
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (58).png
+Tempo de analise: 0:00:00.258414
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (16).png
+Tempo de analise: 0:00:00.258973
+Resultado previsto: 2 =) Nazli
+
+Cobaia selecionada: Ala_IdrisAla_Idris (46).png
+Tempo de analise: 0:00:00.258529
+Resultado previsto: 2 =) Nazli
+Total de acertos: 1
+Percentual de acertos: 1.0
+Classe em testes: Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (90).png
+Tempo de analise: 0:00:00.252230
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (70).png
+Tempo de analise: 0:00:00.261829
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (74).png
+Tempo de analise: 0:00:00.263961
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (11).png
+Tempo de analise: 0:00:00.263233
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (83).png
+Tempo de analise: 0:00:00.267343
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (71).png
+Tempo de analise: 0:00:00.258528
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (12).png
+Tempo de analise: 0:00:00.268238
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (21).png
+Tempo de analise: 0:00:00.259235
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (14).png
+Tempo de analise: 0:00:00.255070
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (84).png
+Tempo de analise: 0:00:00.270171
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (54).png
+Tempo de analise: 0:00:00.260014
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (65).png
+Tempo de analise: 0:00:00.253981
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (23).png
+Tempo de analise: 0:00:00.254792
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (3).png
+Tempo de analise: 0:00:00.257191
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (39).png
+Tempo de analise: 0:00:00.257190
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (22).png
+Tempo de analise: 0:00:00.268226
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (60).png
+Tempo de analise: 0:00:00.273297
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (51).png
+Tempo de analise: 0:00:00.248631
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (14).png
+Tempo de analise: 0:00:00.255066
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (45).png
+Tempo de analise: 0:00:00.383144
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (3).png
+Tempo de analise: 0:00:00.262140
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (57).png
+Tempo de analise: 0:00:00.256807
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (47).png
+Tempo de analise: 0:00:00.254089
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (68).png
+Tempo de analise: 0:00:00.272451
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (98).png
+Tempo de analise: 0:00:00.261179
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (38).png
+Tempo de analise: 0:00:00.266057
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (64).png
+Tempo de analise: 0:00:00.253991
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (89).png
+Tempo de analise: 0:00:00.272359
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (13).png
+Tempo de analise: 0:00:00.254327
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (52).png
+Tempo de analise: 0:00:00.249863
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (46).png
+Tempo de analise: 0:00:00.247471
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (64).png
+Tempo de analise: 0:00:00.258290
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (14).png
+Tempo de analise: 0:00:00.262596
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (38).png
+Tempo de analise: 0:00:00.270117
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (46).png
+Tempo de analise: 0:00:00.255349
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (72).png
+Tempo de analise: 0:00:00.263271
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (15).png
+Tempo de analise: 0:00:00.262535
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (9).png
+Tempo de analise: 0:00:00.269025
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (65).png
+Tempo de analise: 0:00:00.257146
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (19).png
+Tempo de analise: 0:00:00.255066
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (36).png
+Tempo de analise: 0:00:00.250600
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (6).png
+Tempo de analise: 0:00:00.267508
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (88).png
+Tempo de analise: 0:00:00.261095
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (39).png
+Tempo de analise: 0:00:00.265309
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (99).png
+Tempo de analise: 0:00:00.264918
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (26).png
+Tempo de analise: 0:00:00.262902
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (67).png
+Tempo de analise: 0:00:00.257459
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (93).png
+Tempo de analise: 0:00:00.274488
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (21).png
+Tempo de analise: 0:00:00.262036
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (29).png
+Tempo de analise: 0:00:00.254442
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (29).png
+Tempo de analise: 0:00:00.256054
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (19).png
+Tempo de analise: 0:00:00.258604
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (60).png
+Tempo de analise: 0:00:00.256733
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (92).png
+Tempo de analise: 0:00:00.255016
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (11).png
+Tempo de analise: 0:00:00.246516
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (7).png
+Tempo de analise: 0:00:00.261727
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (34).png
+Tempo de analise: 0:00:00.259960
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (52).png
+Tempo de analise: 0:00:00.263693
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (2).png
+Tempo de analise: 0:00:00.255529
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (61).png
+Tempo de analise: 0:00:00.251657
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (67).png
+Tempo de analise: 0:00:00.252914
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (59).png
+Tempo de analise: 0:00:00.253753
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (5).png
+Tempo de analise: 0:00:00.278424
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (5).png
+Tempo de analise: 0:00:00.260782
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (89).png
+Tempo de analise: 0:00:00.374251
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (23).png
+Tempo de analise: 0:00:00.275330
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (63).png
+Tempo de analise: 0:00:00.255615
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (20).png
+Tempo de analise: 0:00:00.259030
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (92).png
+Tempo de analise: 0:00:00.253122
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (30).png
+Tempo de analise: 0:00:00.255691
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (70).png
+Tempo de analise: 0:00:00.266623
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (28).png
+Tempo de analise: 0:00:00.240249
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (19).png
+Tempo de analise: 0:00:00.262309
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (81).png
+Tempo de analise: 0:00:00.265830
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (53).png
+Tempo de analise: 0:00:00.256376
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (22).png
+Tempo de analise: 0:00:00.251406
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (85).png
+Tempo de analise: 0:00:00.247816
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (32).png
+Tempo de analise: 0:00:00.252420
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (57).png
+Tempo de analise: 0:00:00.244300
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (52).png
+Tempo de analise: 0:00:00.246521
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (24).png
+Tempo de analise: 0:00:00.253890
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (99).png
+Tempo de analise: 0:00:00.255951
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (51).png
+Tempo de analise: 0:00:00.250649
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (22).png
+Tempo de analise: 0:00:00.260479
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (63).png
+Tempo de analise: 0:00:00.250041
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (45).png
+Tempo de analise: 0:00:00.243492
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (29).png
+Tempo de analise: 0:00:00.246020
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (36).png
+Tempo de analise: 0:00:00.247317
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (82).png
+Tempo de analise: 0:00:00.267996
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (82).png
+Tempo de analise: 0:00:00.257516
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (9).png
+Tempo de analise: 0:00:00.245253
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (12).png
+Tempo de analise: 0:00:00.254951
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (52).png
+Tempo de analise: 0:00:00.253147
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (67).png
+Tempo de analise: 0:00:00.251943
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (17).png
+Tempo de analise: 0:00:00.255715
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (94).png
+Tempo de analise: 0:00:00.238242
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (45).png
+Tempo de analise: 0:00:00.244569
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (92).png
+Tempo de analise: 0:00:00.245580
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: BuzguluBuzgulu (28).png
+Tempo de analise: 0:00:00.253091
+Resultado previsto: 1 =) Buzgulu
+Total de acertos: 99
+Percentual de acertos: 99.0
+Classe em testes: Nazli
+
+Cobaia selecionada: NazliNazli (82).png
+Tempo de analise: 0:00:00.250905
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (37).png
+Tempo de analise: 0:00:00.248010
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (50).png
+Tempo de analise: 0:00:00.258535
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (4).png
+Tempo de analise: 0:00:00.268993
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (90).png
+Tempo de analise: 0:00:00.248368
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (91).png
+Tempo de analise: 0:00:00.263162
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (37).png
+Tempo de analise: 0:00:00.252088
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (78).png
+Tempo de analise: 0:00:00.263423
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (36).png
+Tempo de analise: 0:00:00.262680
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (31).png
+Tempo de analise: 0:00:00.264778
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (31).png
+Tempo de analise: 0:00:00.257445
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (7).png
+Tempo de analise: 0:00:00.270788
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (57).png
+Tempo de analise: 0:00:00.262645
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (97).png
+Tempo de analise: 0:00:00.265101
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (76).png
+Tempo de analise: 0:00:00.255267
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (85).png
+Tempo de analise: 0:00:00.254927
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (99).png
+Tempo de analise: 0:00:00.263789
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (79).png
+Tempo de analise: 0:00:00.267218
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (24).png
+Tempo de analise: 0:00:00.262054
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (77).png
+Tempo de analise: 0:00:00.262747
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (59).png
+Tempo de analise: 0:00:00.377156
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (35).png
+Tempo de analise: 0:00:00.267018
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (94).png
+Tempo de analise: 0:00:00.270648
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (85).png
+Tempo de analise: 0:00:00.253978
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (76).png
+Tempo de analise: 0:00:00.249862
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (42).png
+Tempo de analise: 0:00:00.257336
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (73).png
+Tempo de analise: 0:00:00.259777
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (73).png
+Tempo de analise: 0:00:00.250673
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (27).png
+Tempo de analise: 0:00:00.256450
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (7).png
+Tempo de analise: 0:00:00.251239
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (69).png
+Tempo de analise: 0:00:00.264318
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (95).png
+Tempo de analise: 0:00:00.264595
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (39).png
+Tempo de analise: 0:00:00.263722
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (56).png
+Tempo de analise: 0:00:00.243226
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (74).png
+Tempo de analise: 0:00:00.252853
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (44).png
+Tempo de analise: 0:00:00.258265
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (44).png
+Tempo de analise: 0:00:00.246395
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (16).png
+Tempo de analise: 0:00:00.245115
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (53).png
+Tempo de analise: 0:00:00.254453
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (2).png
+Tempo de analise: 0:00:00.251041
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (52).png
+Tempo de analise: 0:00:00.255146
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (44).png
+Tempo de analise: 0:00:00.251118
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (56).png
+Tempo de analise: 0:00:00.253106
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (92).png
+Tempo de analise: 0:00:00.265730
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (43).png
+Tempo de analise: 0:00:00.257205
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (44).png
+Tempo de analise: 0:00:00.255202
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (41).png
+Tempo de analise: 0:00:00.263749
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (26).png
+Tempo de analise: 0:00:00.256746
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (63).png
+Tempo de analise: 0:00:00.264964
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (26).png
+Tempo de analise: 0:00:00.253649
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (10).png
+Tempo de analise: 0:00:00.266441
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (71).png
+Tempo de analise: 0:00:00.260231
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (67).png
+Tempo de analise: 0:00:00.262043
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (43).png
+Tempo de analise: 0:00:00.249539
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (68).png
+Tempo de analise: 0:00:00.273564
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (37).png
+Tempo de analise: 0:00:00.260486
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (56).png
+Tempo de analise: 0:00:00.247077
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (15).png
+Tempo de analise: 0:00:00.251147
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (21).png
+Tempo de analise: 0:00:00.263723
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (70).png
+Tempo de analise: 0:00:00.264186
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (56).png
+Tempo de analise: 0:00:00.257675
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (78).png
+Tempo de analise: 0:00:00.266311
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (16).png
+Tempo de analise: 0:00:00.255527
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (85).png
+Tempo de analise: 0:00:00.375344
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (69).png
+Tempo de analise: 0:00:00.279678
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (9).png
+Tempo de analise: 0:00:00.261935
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (7).png
+Tempo de analise: 0:00:00.252673
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (53).png
+Tempo de analise: 0:00:00.254246
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (83).png
+Tempo de analise: 0:00:00.388642
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (87).png
+Tempo de analise: 0:00:00.282361
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (8).png
+Tempo de analise: 0:00:00.258587
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (39).png
+Tempo de analise: 0:00:00.253629
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (88).png
+Tempo de analise: 0:00:00.274007
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (99).png
+Tempo de analise: 0:00:00.266031
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (12).png
+Tempo de analise: 0:00:00.257454
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (52).png
+Tempo de analise: 0:00:00.260577
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (91).png
+Tempo de analise: 0:00:00.263560
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (13).png
+Tempo de analise: 0:00:00.272201
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (55).png
+Tempo de analise: 0:00:00.263508
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (63).png
+Tempo de analise: 0:00:00.256527
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (45).png
+Tempo de analise: 0:00:00.265133
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (62).png
+Tempo de analise: 0:00:00.260374
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (49).png
+Tempo de analise: 0:00:00.256202
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (48).png
+Tempo de analise: 0:00:00.259189
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (1).png
+Tempo de analise: 0:00:00.259562
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (24).png
+Tempo de analise: 0:00:00.251125
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (17).png
+Tempo de analise: 0:00:00.263291
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (95).png
+Tempo de analise: 0:00:00.260349
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (55).png
+Tempo de analise: 0:00:00.244158
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (42).png
+Tempo de analise: 0:00:00.373887
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (80).png
+Tempo de analise: 0:00:00.283959
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (67).png
+Tempo de analise: 0:00:00.255273
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (72).png
+Tempo de analise: 0:00:00.249364
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (1).png
+Tempo de analise: 0:00:00.246746
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (55).png
+Tempo de analise: 0:00:00.252115
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (3).png
+Tempo de analise: 0:00:00.249727
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (98).png
+Tempo de analise: 0:00:00.257630
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (5).png
+Tempo de analise: 0:00:00.256496
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: NazliNazli (35).png
+Tempo de analise: 0:00:00.257043
+Resultado previsto: 4 =) Dimnit
+Total de acertos: 0
+Percentual de acertos: 0.0
+Classe em testes: Ak
+
+Cobaia selecionada: AkAk (19).png
+Tempo de analise: 0:00:00.252217
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (48).png
+Tempo de analise: 0:00:00.258633
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (64).png
+Tempo de analise: 0:00:00.272888
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (39).png
+Tempo de analise: 0:00:00.267261
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (21).png
+Tempo de analise: 0:00:00.272287
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (34).png
+Tempo de analise: 0:00:00.283207
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (41).png
+Tempo de analise: 0:00:00.257392
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (61).png
+Tempo de analise: 0:00:00.265400
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (12).png
+Tempo de analise: 0:00:00.268218
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (64).png
+Tempo de analise: 0:00:00.253223
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (7).png
+Tempo de analise: 0:00:00.264614
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (78).png
+Tempo de analise: 0:00:00.255762
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (1).png
+Tempo de analise: 0:00:00.256845
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (22).png
+Tempo de analise: 0:00:00.258881
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (17).png
+Tempo de analise: 0:00:00.266740
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (83).png
+Tempo de analise: 0:00:00.257159
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (15).png
+Tempo de analise: 0:00:00.260665
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (10).png
+Tempo de analise: 0:00:00.250819
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (75).png
+Tempo de analise: 0:00:00.255158
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (57).png
+Tempo de analise: 0:00:00.245624
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (56).png
+Tempo de analise: 0:00:00.257980
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (38).png
+Tempo de analise: 0:00:00.251376
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (23).png
+Tempo de analise: 0:00:00.256521
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (38).png
+Tempo de analise: 0:00:00.252645
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (84).png
+Tempo de analise: 0:00:00.247352
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (17).png
+Tempo de analise: 0:00:00.248836
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (98).png
+Tempo de analise: 0:00:00.257101
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (86).png
+Tempo de analise: 0:00:00.254236
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (34).png
+Tempo de analise: 0:00:00.255176
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (48).png
+Tempo de analise: 0:00:00.241973
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (16).png
+Tempo de analise: 0:00:00.259896
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (27).png
+Tempo de analise: 0:00:00.245527
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (18).png
+Tempo de analise: 0:00:00.263857
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (100).png
+Tempo de analise: 0:00:00.251965
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (14).png
+Tempo de analise: 0:00:00.245359
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (38).png
+Tempo de analise: 0:00:00.244671
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (54).png
+Tempo de analise: 0:00:00.241308
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (90).png
+Tempo de analise: 0:00:00.262806
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (57).png
+Tempo de analise: 0:00:00.248061
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (26).png
+Tempo de analise: 0:00:00.270508
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (85).png
+Tempo de analise: 0:00:00.260790
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (94).png
+Tempo de analise: 0:00:00.408537
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (40).png
+Tempo de analise: 0:00:00.259470
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (54).png
+Tempo de analise: 0:00:00.261620
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (92).png
+Tempo de analise: 0:00:00.262858
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (96).png
+Tempo de analise: 0:00:00.274109
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (15).png
+Tempo de analise: 0:00:00.265701
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (47).png
+Tempo de analise: 0:00:00.262892
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (66).png
+Tempo de analise: 0:00:00.267537
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (71).png
+Tempo de analise: 0:00:00.260998
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (5).png
+Tempo de analise: 0:00:00.274169
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (46).png
+Tempo de analise: 0:00:00.267997
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (26).png
+Tempo de analise: 0:00:00.255825
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (24).png
+Tempo de analise: 0:00:00.268232
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (17).png
+Tempo de analise: 0:00:00.261569
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (85).png
+Tempo de analise: 0:00:00.261999
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (1).png
+Tempo de analise: 0:00:00.258185
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (90).png
+Tempo de analise: 0:00:00.271326
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (78).png
+Tempo de analise: 0:00:00.267168
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (4).png
+Tempo de analise: 0:00:00.267028
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (74).png
+Tempo de analise: 0:00:00.391754
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (3).png
+Tempo de analise: 0:00:00.271068
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (47).png
+Tempo de analise: 0:00:00.252479
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (80).png
+Tempo de analise: 0:00:00.264201
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (6).png
+Tempo de analise: 0:00:00.268238
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (92).png
+Tempo de analise: 0:00:00.265468
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (37).png
+Tempo de analise: 0:00:00.268923
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (61).png
+Tempo de analise: 0:00:00.268482
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (84).png
+Tempo de analise: 0:00:00.274376
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (40).png
+Tempo de analise: 0:00:00.281160
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (37).png
+Tempo de analise: 0:00:00.268269
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (65).png
+Tempo de analise: 0:00:00.264002
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (26).png
+Tempo de analise: 0:00:00.262987
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (42).png
+Tempo de analise: 0:00:00.265632
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (60).png
+Tempo de analise: 0:00:00.259377
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (96).png
+Tempo de analise: 0:00:00.252368
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (21).png
+Tempo de analise: 0:00:00.260019
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (66).png
+Tempo de analise: 0:00:00.253127
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (6).png
+Tempo de analise: 0:00:00.377837
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (36).png
+Tempo de analise: 0:00:00.263649
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (55).png
+Tempo de analise: 0:00:00.256455
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (56).png
+Tempo de analise: 0:00:00.255984
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (81).png
+Tempo de analise: 0:00:00.255167
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (9).png
+Tempo de analise: 0:00:00.252235
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (26).png
+Tempo de analise: 0:00:00.251948
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (30).png
+Tempo de analise: 0:00:00.262821
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (35).png
+Tempo de analise: 0:00:00.249581
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (44).png
+Tempo de analise: 0:00:00.255683
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (15).png
+Tempo de analise: 0:00:00.243193
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (100).png
+Tempo de analise: 0:00:00.263896
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (9).png
+Tempo de analise: 0:00:00.258689
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (19).png
+Tempo de analise: 0:00:00.261842
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (82).png
+Tempo de analise: 0:00:00.249132
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (79).png
+Tempo de analise: 0:00:00.247103
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (51).png
+Tempo de analise: 0:00:00.259279
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (68).png
+Tempo de analise: 0:00:00.243944
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (47).png
+Tempo de analise: 0:00:00.377318
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (46).png
+Tempo de analise: 0:00:00.261607
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: AkAk (47).png
+Tempo de analise: 0:00:00.266435
+Resultado previsto: 0 =) Ala_Idris
+Total de acertos: 0
+Percentual de acertos: 0.0
+Classe em testes: Dimnit
+
+Cobaia selecionada: DimnitDimnit (6).png
+Tempo de analise: 0:00:00.252334
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (92).png
+Tempo de analise: 0:00:00.262212
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (52).png
+Tempo de analise: 0:00:00.258912
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (97).png
+Tempo de analise: 0:00:00.272361
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (93).png
+Tempo de analise: 0:00:00.261334
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (55).png
+Tempo de analise: 0:00:00.241302
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (58).png
+Tempo de analise: 0:00:00.271334
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (85).png
+Tempo de analise: 0:00:00.255899
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (87).png
+Tempo de analise: 0:00:00.259794
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (2).png
+Tempo de analise: 0:00:00.259930
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (1).png
+Tempo de analise: 0:00:00.266868
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (19).png
+Tempo de analise: 0:00:00.254556
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (27).png
+Tempo de analise: 0:00:00.259484
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (56).png
+Tempo de analise: 0:00:00.273380
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (21).png
+Tempo de analise: 0:00:00.250203
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (40).png
+Tempo de analise: 0:00:00.260490
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (65).png
+Tempo de analise: 0:00:00.265274
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (26).png
+Tempo de analise: 0:00:00.265146
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (40).png
+Tempo de analise: 0:00:00.254152
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (52).png
+Tempo de analise: 0:00:00.262847
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (100).png
+Tempo de analise: 0:00:00.263200
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (70).png
+Tempo de analise: 0:00:00.241060
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (94).png
+Tempo de analise: 0:00:00.240884
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (75).png
+Tempo de analise: 0:00:00.258968
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (3).png
+Tempo de analise: 0:00:00.247939
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: DimnitDimnit (40).png
+Tempo de analise: 0:00:00.245693
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (99).png
+Tempo de analise: 0:00:00.244099
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (58).png
+Tempo de analise: 0:00:00.265601
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (25).png
+Tempo de analise: 0:00:00.266919
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (42).png
+Tempo de analise: 0:00:00.261598
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (87).png
+Tempo de analise: 0:00:00.247958
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (64).png
+Tempo de analise: 0:00:00.255709
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (1).png
+Tempo de analise: 0:00:00.252474
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (88).png
+Tempo de analise: 0:00:00.258972
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (35).png
+Tempo de analise: 0:00:00.253098
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (41).png
+Tempo de analise: 0:00:00.258134
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (99).png
+Tempo de analise: 0:00:00.244302
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (81).png
+Tempo de analise: 0:00:00.264972
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (34).png
+Tempo de analise: 0:00:00.263122
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (60).png
+Tempo de analise: 0:00:00.251072
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: DimnitDimnit (4).png
+Tempo de analise: 0:00:00.265428
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (54).png
+Tempo de analise: 0:00:00.254896
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (18).png
+Tempo de analise: 0:00:00.385213
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (16).png
+Tempo de analise: 0:00:00.255583
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (59).png
+Tempo de analise: 0:00:00.379057
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (81).png
+Tempo de analise: 0:00:00.257476
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (54).png
+Tempo de analise: 0:00:00.252864
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (72).png
+Tempo de analise: 0:00:00.250052
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (52).png
+Tempo de analise: 0:00:00.264398
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (46).png
+Tempo de analise: 0:00:00.244315
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (78).png
+Tempo de analise: 0:00:00.253910
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (81).png
+Tempo de analise: 0:00:00.257128
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (51).png
+Tempo de analise: 0:00:00.254225
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: DimnitDimnit (58).png
+Tempo de analise: 0:00:00.245763
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (69).png
+Tempo de analise: 0:00:00.373073
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (51).png
+Tempo de analise: 0:00:00.383620
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: DimnitDimnit (77).png
+Tempo de analise: 0:00:00.252328
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (96).png
+Tempo de analise: 0:00:00.245123
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (37).png
+Tempo de analise: 0:00:00.384060
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (61).png
+Tempo de analise: 0:00:00.273903
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (43).png
+Tempo de analise: 0:00:00.277253
+Resultado previsto: 0 =) Ala_Idris
+
+Cobaia selecionada: DimnitDimnit (57).png
+Tempo de analise: 0:00:00.246679
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (84).png
+Tempo de analise: 0:00:00.244629
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (21).png
+Tempo de analise: 0:00:00.255855
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (94).png
+Tempo de analise: 0:00:00.254251
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (60).png
+Tempo de analise: 0:00:00.256332
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: DimnitDimnit (38).png
+Tempo de analise: 0:00:00.254731
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (51).png
+Tempo de analise: 0:00:00.248911
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: DimnitDimnit (77).png
+Tempo de analise: 0:00:00.260305
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (60).png
+Tempo de analise: 0:00:00.259871
+Resultado previsto: 1 =) Buzgulu
+
+Cobaia selecionada: DimnitDimnit (34).png
+Tempo de analise: 0:00:00.256443
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (99).png
+Tempo de analise: 0:00:00.250957
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (14).png
+Tempo de analise: 0:00:00.270968
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (28).png
+Tempo de analise: 0:00:00.253513
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (93).png
+Tempo de analise: 0:00:00.267495
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (34).png
+Tempo de analise: 0:00:00.264455
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (58).png
+Tempo de analise: 0:00:00.246305
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (51).png
+Tempo de analise: 0:00:00.273009
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: DimnitDimnit (88).png
+Tempo de analise: 0:00:00.266107
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (76).png
+Tempo de analise: 0:00:00.254280
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (6).png
+Tempo de analise: 0:00:00.259558
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (19).png
+Tempo de analise: 0:00:00.251397
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (81).png
+Tempo de analise: 0:00:00.251788
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (47).png
+Tempo de analise: 0:00:00.252350
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (50).png
+Tempo de analise: 0:00:00.248022
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (22).png
+Tempo de analise: 0:00:00.252906
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (41).png
+Tempo de analise: 0:00:00.250189
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (51).png
+Tempo de analise: 0:00:00.244502
+Resultado previsto: 4 =) Dimnit
+
+Cobaia selecionada: DimnitDimnit (77).png
+Tempo de analise: 0:00:00.252145
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (68).png
+Tempo de analise: 0:00:00.259581
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (99).png
+Tempo de analise: 0:00:00.253988
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (93).png
+Tempo de analise: 0:00:00.258829
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (74).png
+Tempo de analise: 0:00:00.252386
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (69).png
+Tempo de analise: 0:00:00.260277
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (75).png
+Tempo de analise: 0:00:00.256067
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (11).png
+Tempo de analise: 0:00:00.256591
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (96).png
+Tempo de analise: 0:00:00.253372
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (58).png
+Tempo de analise: 0:00:00.263512
+Resultado previsto: 3 =) Ak
+
+Cobaia selecionada: DimnitDimnit (3).png
+Tempo de analise: 0:00:00.266874
+Resultado previsto: 1 =) Buzgulu
+Total de acertos: 5
+Percentual de acertos: 5.0
+
+
+Total de acertos em todas as classes: 105
+Percentual de acertos: 21.21

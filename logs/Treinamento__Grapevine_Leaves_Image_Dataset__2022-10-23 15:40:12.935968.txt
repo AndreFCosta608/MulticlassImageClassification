@@ -1,0 +1,6 @@
+
+
+->Modelo rede analisado: 7
+->Dataset utilizado: /home/pi/projetos/ComparadorTexturas/datasets/Grapevine_Leaves_Image_Dataset
+->Classes no dataset: ['Ak', 'Buzgulu', 'Ala_Idris', 'Dimnit', 'Nazli']
+->Numero de classes: 5
